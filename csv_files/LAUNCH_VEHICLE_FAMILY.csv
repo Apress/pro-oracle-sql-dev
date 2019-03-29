@@ -1,0 +1,565 @@
+LV_FAMILY_CODE,LV_FAMILY_CLASS
+10KS2500,sounding rocket
+10SM,intermediate stage 1
+11A52B,intermediate stage 1
+11A52V,intermediate stage 1
+20SM,intermediate stage 1
+25SM,intermediate stage 1
+40SM,intermediate stage 1
+48N6,sounding rocket
+51T6B,intermediate stage 1
+5inSM,intermediate stage 1
+8K75B,intermediate stage 1
+A-350,sounding rocket
+AAD,sounding rocket
+AJ60,intermediate stage 1
+AMROC,sounding rocket
+ASLV,orbital family
+ASLV.St2,intermediate stage 1
+ASLV.St3,intermediate stage 1
+ASLV.St4,orbital
+ATACMS,intermediate stage 1
+AUS-51,orbital
+AVUM,orbital
+Abid,missile
+Abid.St3,intermediate stage 1
+Able,orbital
+Ablestar,orbital
+AeroHTV,sounding rocket
+AeroHTV2,sounding rocket
+Aerobee,sounding rocket
+AerobeeB,missile
+Agate,missile
+Agena,orbital
+Agni3,missile
+AgniII.St2,intermediate stage 1
+Air,astronaut suborbital
+Ajax,intermediate stage 1
+AlKahir,missile test rocket
+Alcor,intermediate stage 1
+Alfa,missile
+Altair,orbital
+Angara,orbital family
+Antares,intermediate stage 1
+Apache,intermediate stage 1
+Apollo.LES,test rocket
+Arcas,sounding rocket
+ArcasB,missile
+Arcon,sounding rocket
+Ariane,orbital family
+Ariane.St2,intermediate stage 1
+Ariane.St3,orbital
+Ariane5,orbital family
+Aries,sounding rocket
+Arrow,intermediate stage 1
+Arrow2,missile
+Arrow3,missile
+Asp,intermediate stage 1
+Astra,sounding rocket
+Astrid,test rocket
+Astris,orbital
+AstrobeeD,sounding rocket
+AstrobeeF,sounding rocket
+Atea,missile
+Atlas,orbital family
+Atlas.Booster,intermediate stage 1
+Atlas5,orbital family
+AtlasVSRM,intermediate stage 1
+Aurore,intermediate stage 1
+BB3,sounding rocket
+BB5,sounding rocket
+BB6,sounding rocket
+BB7,weather (small)
+BE3,orbital
+BLDT,test rocket
+BOZ,intermediate stage 1
+BR,orbital
+BabySergeant,orbital
+Belenos,weather (small)
+Belier,sounding rocket
+Belisama,weather (small)
+Berenice,intermediate stage 1
+BlackArrow,orbital family
+BlackArrow.St2,intermediate stage 1
+BlackKnight,sounding rocket
+BlackSparrow,intermediate stage 1
+Blok-A,intermediate stage 1
+Blok-D,orbital
+Blok-E,orbital
+Blok-I,orbital
+Blok-L,orbital
+BlokG,intermediate stage 1
+BlueStreak,orbital family
+Bomarc,missile
+Briz,orbital
+Bukguekseong,missile
+BullGoose,missile
+Bullpup,sounding rocket
+Burya,missile
+CB-250,sounding rocket
+CSXT,sounding rocket
+CZ.LB,intermediate stage 1
+CZ.St2,orbital
+CZ1.St2,intermediate stage 1
+CZ11-3,intermediate stage 1
+CZ11-4,intermediate stage 1
+CZ3.St3,orbital
+CZ5,orbital family
+Castor4,sounding rocket
+Cedre,sounding rocket
+Cedre.St2,sounding rocket
+Cedre.St3,sounding rocket
+Centaur,orbital
+Cetus,orbital
+Chick,intermediate stage 1
+Cirrus,sounding rocket
+Cluster,orbital
+Coralie,intermediate stage 1
+Corporal,missile
+Cuckoo,missile
+Cygnus,intermediate stage 1
+D3SS,orbital
+D4SS,orbital
+DACRoc,sounding rocket
+DC-X,test rocket
+DF-11,missile
+DF-15,missile
+DF-16,missile
+DF-21,missile
+DF-31,missile
+DF3,orbital family
+DF5,orbital family
+DIM,sounding rocket
+DS,orbital
+Daniel,sounding rocket
+Deacon,missile
+Delta2,orbital
+Delta4,orbital family
+Demon,sounding rocket
+Dolphin,test rocket
+Dragon,test rocket
+Dummy,intermediate stage 1
+E8,orbital family
+EPBS,orbital
+EPS,orbital
+Electron,orbital family
+Emeraude,orbital family
+Emma,weather (small)
+Energiya,orbital family
+Excalibur,missile
+FFAR,sounding rocket
+FFK,sounding rocket
+FTB,sounding rocket
+FTI,sounding rocket
+FW4,orbital
+Falcon,intermediate stage 1
+Falcon1,orbital family
+Falcon9,orbital family
+Falcon9.St2,intermediate stage 1
+Fatah,sounding rocket
+Fregat,orbital
+GCR,orbital
+GEM,missile
+GEM60,missile
+GEM63,missile
+GF-02,orbital
+GLCM,missile
+GS3,orbital
+GSLV,orbital family
+GSLV3,orbital family
+GSLV3.St2,intermediate stage 1
+GSOM,intermediate stage 1
+GammaCen,sounding rocket
+GammaCenS,sounding rocket
+Generic,sounding rocket
+Genie,missile
+Gosling,sounding rocket
+Grad,missile
+Gradicom,sounding rocket
+Gun05,sounding rocket
+Gun07,sounding rocket
+Gun16,sounding rocket
+H2,orbital family
+H2.SRB,intermediate stage 1
+H2.SSB,intermediate stage 1
+H2.St2,orbital
+H2B,orbital family
+HALO,sounding rocket
+HAPS,orbital
+HIBEX,astronaut suborbital
+HJ,missile
+HOTROC,orbital family
+HTR,test rocket
+HVAR,sounding rocket
+HYSR,test rocket
+Hades,missile
+Hercules,intermediate stage 1
+Hermes,astronaut suborbital
+HermesA3,astronaut suborbital
+Hopi,missile
+HoundDog,missile
+Hwasong-12,missile
+Hwasong-15,missile
+Hyunmoo,missile
+IAI.Arrow.St2,intermediate stage 1
+IIAE.Orion,sounding rocket
+INTA-100,sounding rocket
+IRIS.Fiat,orbital
+ISRO-TV,sounding rocket
+Icarus,sounding rocket
+Icarus2,sounding rocket
+Ikar,orbital
+Interstage,intermediate stage 1
+IraqGun350,sounding rocket
+Iris,sounding rocket
+Iroquois,intermediate stage 1
+Ivanov,sounding rocket
+JCR,sounding rocket
+Javelin,intermediate stage 1
+Jericho,orbital family
+Jupiter,orbital family
+K-15,missile
+K-4,missile
+K10S,orbital
+K150,sounding rocket
+K250,sounding rocket
+K420,sounding rocket
+KM-D,intermediate stage 1
+KM-H,intermediate stage 1
+KM-L,intermediate stage 1
+KM-V,orbital
+KM-V2,orbital
+KSLV.St2,intermediate stage 1
+KSR,sounding rocket
+KSR-3,sounding rocket
+KT1-3,orbital
+KZ2-3,intermediate stage 1
+Kappa,sounding rocket
+Kappa4,missile
+Kavoshgar,sounding rocket
+Kiva,sounding rocket
+Kontakt,missile
+Kosmos-2.St2,orbital
+Kosmos-3.St2,orbital
+Kuryer,missile
+Kuryer.St3,missile
+L14,orbital
+L480S,orbital
+L500,intermediate stage 1
+LAPS,orbital
+LAPSTAR,intermediate stage 1
+LE-3,orbital
+LE-5,orbital
+LEO-46,missile
+LEO-7,missile
+LJ1,test rocket
+LJ2,sounding rocket
+LMAS,orbital family
+LPR-006,sounding rocket
+LS-C,sounding rocket
+Lacrosse,sounding rocket
+Lambda,orbital family
+Lambda.St2,intermediate stage 1
+Lance,intermediate stage 1
+LanceMotor,intermediate stage 1
+Lark,missile
+Lex,sounding rocket
+Lobster,intermediate stage 1
+Loki,missile
+LongTom,missile
+Luna,missile
+Lupus,sounding rocket
+Luzou,sounding rocket
+M-100,sounding rocket
+M-20,intermediate stage 1
+M-24,intermediate stage 1
+M-30,orbital
+M-34,orbital
+M-35,intermediate stage 1
+M-40,orbital
+M51,missile
+MLRS,intermediate stage 1
+MMR-06,weather (small)
+MR-12,sounding rocket
+MR-UR-100,missile
+MR-UR-100.St2,intermediate stage 1
+MSBS,missile
+MSBS.St2,intermediate stage 1
+MSBS.St3,intermediate stage 1
+MT-135,weather (small)
+MV,orbital family
+MX,orbital family
+MX-774,astronaut suborbital
+MX.St2,intermediate stage 1
+MX.St3,intermediate stage 1
+MX.St4,intermediate stage 1
+Malemute,sounding rocket
+Matador,missile
+Mera,weather (small)
+Meteo,weather (small)
+Meteor,weather (small)
+Meteor2,sounding rocket
+Mimosa,intermediate stage 1
+Minuteman,orbital family
+Minuteman.St3,intermediate stage 1
+Mk72,missile
+Momo,sounding rocket
+Monica,sounding rocket
+Mu,orbital family
+Musca,intermediate stage 1
+N-1,orbital family
+NAL,sounding rocket
+NOTS.3inSM,intermediate stage 1
+NOTS.8in,intermediate stage 1
+NOTS400,sounding rocket
+NOTS500,sounding rocket
+NOTS551,intermediate stage 1
+NSPO,sounding rocket
+NSPOB,missile
+Navaho,missile
+Neptune,intermediate stage 1
+NewShepard,intermediate stage 1
+Nike,missile
+Nike-46,missile
+Nodong,orbital family
+OAM,orbital
+OTRAG,test rocket
+OV,orbital family
+Oka,missile
+Orbus1,intermediate stage 1
+Orbus21,orbital
+Orbus6,orbital
+Oriole,intermediate stage 1
+Orion,sounding rocket
+Orion.LAS,missile
+P-10,missile
+P-16,missile
+P068,orbital
+PAL,intermediate stage 1
+PAM-D2,orbital
+PAP,intermediate stage 1
+PBS,intermediate stage 1
+PRS-1,missile
+PSLV,orbital family
+PSLV.St2,intermediate stage 1
+PSLV.St3,intermediate stage 1
+PSLV.St4,orbital
+Pedro,sounding rocket
+Pegasus,orbital family
+Pegasus.St2,intermediate stage 1
+Pegasus.St3,orbital
+Peregrine,sounding rocket
+Perekhodnik,intermediate stage 1
+Pershing,missile
+Pershing.St2,intermediate stage 1
+Petrel,sounding rocket
+Plastic,intermediate stage 1
+Polaris,missile
+Polaris.St2,intermediate stage 1
+PolarisA3.St2,intermediate stage 1
+Poseidon,missile
+Poseidon.St2,intermediate stage 1
+Prithvi,missile
+PrivateA,missile
+PrivateBooster,missile
+Proson,sounding rocket
+Proson2,intermediate stage 1
+Proton,orbital family
+Proton.St3,intermediate stage 1
+R-11,missile
+R-12,orbital family
+R-13,missile
+R-14,orbital family
+R-16,missile
+R-16.St2,intermediate stage 1
+R-21,missile
+R-27,missile
+R-29,orbital family
+R-29.St2,intermediate stage 1
+R-29.St3,intermediate stage 1
+R-31,missile
+R-31.St2,intermediate stage 1
+R-36,orbital family
+R-36.St2,orbital
+R-39,missile
+R-39.St2,intermediate stage 1
+R-39.St3,intermediate stage 1
+R-5,missile
+R-7,orbital family
+R-9,missile
+RH-125,weather (small)
+RH-200,sounding rocket
+RH-300,sounding rocket
+RH-560,sounding rocket
+RH-75,weather (small)
+RT-1.St3,intermediate stage 1
+RT-15,missile
+RT-15.St2,intermediate stage 1
+RT-15.St3,intermediate stage 1
+RT-2,missile
+RT-2.St3,intermediate stage 1
+RT-20P,missile
+RT-20P.St2,intermediate stage 1
+RT-21.St2,intermediate stage 1
+RT-23.St2,intermediate stage 1
+RT-23.St3,intermediate stage 1
+RTV,astronaut suborbital
+RX-250,sounding rocket
+RX-320,sounding rocket
+RX-420,sounding rocket
+Raven,sounding rocket
+Recruit,sounding rocket
+Redstone,orbital family
+Regulus,missile
+Rigel,sounding rocket
+Rita,intermediate stage 1
+Rocketsonde,sounding rocket
+Rocketsonde2,sounding rocket
+Rubis,intermediate stage 1
+S-160,sounding rocket
+S-210,sounding rocket
+S-300,sounding rocket
+S-310,sounding rocket
+S-40,orbital family
+S-44,intermediate stage 1
+S-520,sounding rocket
+S5M,orbital
+SB-310,intermediate stage 1
+SB-735,test rocket
+SD,orbital
+SEPR167,intermediate stage 1
+SICBM,missile
+SICBM2,intermediate stage 1
+SICBM3,intermediate stage 1
+SICBM4,intermediate stage 1
+SM-3-II,sounding rocket
+SM3.TSRM,intermediate stage 1
+SOZ,intermediate stage 1
+SR19,missile
+SR73,intermediate stage 1
+SRAM,missile
+SRB,orbital family
+SRMU,intermediate stage 1
+SS-520-4,intermediate stage 1
+SS1,sounding rocket
+SS2,intermediate stage 1
+STA,sounding rocket
+STIG,sounding rocket
+STIG-B,sounding rocket
+STS,orbital family
+STS.OV,orbital
+Safir,intermediate stage 1
+Samoud,sounding rocket
+Sandhawk,sounding rocket
+Saturn,orbital family
+SaturnII,orbital
+SaturnIV,orbital
+SaturnIVB,orbital
+SaturnV,orbital family
+Scout,missile
+ScoutD,orbital family
+Sejjil,missile
+Seliger,sounding rocket
+Sergeant,missile
+Shaviyt,intermediate stage 1
+Sidewinder,missile
+Simorgh.St2,intermediate stage 1
+Sirocco,weather (small)
+Skua,sounding rocket
+Skybolt,missile
+Skybolt.St2,intermediate stage 1
+Snark,missile
+Sonda,sounding rocket
+Sonda3,sounding rocket
+SpaceLoft,sounding rocket
+Sparrow,missile
+Spartan,missile
+Sprint,missile
+Squirt,missile
+Standard,intermediate stage 1
+Star20,orbital
+Star26,orbital
+Star27,orbital
+Star37,orbital
+Star48,orbital
+Start,intermediate stage 1
+Stonechat,sounding rocket
+Stratos2,sounding rocket
+Stromboli,sounding rocket
+SuperLoki,missile
+T-40,astronaut suborbital
+T-55,intermediate stage 1
+T-7,sounding rocket
+T-7B,sounding rocket
+T48,missile
+TD3,intermediate stage 1
+THAAD,missile
+TR-1,sounding rocket
+TR-1.St2,intermediate stage 1
+TT-210,sounding rocket
+TTB,missile
+TX-238,intermediate stage 1
+TX-239,intermediate stage 1
+Talos,missile
+Temp,missile
+Temp-2S,missile
+Terrier,missile
+Thor,orbital family
+Tianying,sounding rocket
+Titan,orbital family
+Titan.SRM,intermediate stage 1
+Titan.St2,orbital
+Tochka,missile
+Tomahawk,sounding rocket
+Topol,orbital family
+Topol.St2,intermediate stage 1
+Topol.St3,intermediate stage 1
+Transtage,orbital
+Trident,missile
+Trident.St2,intermediate stage 1
+Trident.St3,intermediate stage 1
+Trident2,missile
+UM129A,orbital
+UNK,sounding rocket
+UR-100,orbital family
+UR-100.St2,intermediate stage 1
+UR-100N,missile
+UR-100N.St2,intermediate stage 1
+UR-100NU.St3,intermediate stage 1
+UR-200,missile
+URM-2,orbital
+Unha,missile
+Unha.St2,missile
+Unha.St3,missile
+Unknown,sounding rocket
+V-1000,missile
+V-1000.Booster,missile
+V-2,missile
+V-750,missile
+V-825,missile
+Vega,orbital family
+Vela,intermediate stage 1
+Venus,sounding rocket
+Veronique,sounding rocket
+Vesta,sounding rocket
+Viking,orbital family
+Viper,missile
+Viper3,missile
+Viper5,missile
+WAC,sounding rocket
+Waxwing,orbital
+X-10,missile
+X-15,test rocket
+X-241,intermediate stage 1
+X-271,intermediate stage 1
+X-51,missile
+X-7,missile
+Xaero,sounding rocket
+YZ-1,intermediate stage 1
+ZN,weather (small)
+Zefiro,intermediate stage 1
+Zelzal,sounding rocket
+Zenit,orbital family
+Zenit.St2,orbital
+Zenith,sounding rocket
+Zeus-A,intermediate stage 1

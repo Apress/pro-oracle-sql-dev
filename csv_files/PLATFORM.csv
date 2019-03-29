@@ -1,0 +1,229 @@
+PLATFORM_CODE,PLATFORM_UCODE,PLATFORM_STATE_ORG_CODE,PLATFORM_TYPE,PLATFORM_CLASS,PLATFORM_SHORT_NAME,PLATFORM_NAME,PLATFORM_PARENT_ORG_CODE
+AEGIS,AEGIS,US,SHIP,defense,AEGIS ship,Unknown AEGIS class ship,USN
+AGB-4,AGB-4,US,SHIP,defense,SHIP  AGB-4,USS Glacier,USN
+AGB-5,AGB-5,US,SHIP,defense,SHIP  AGB-5,USS Staten Island,USN
+AVM1,AVM1,US,SHIP,defense,SHIP  AVM1,USS Norton Sound,USN
+B-29,B-29,US,AIR,defense,AIR   B-29,B-29 Superfortress,USAF
+B-47,B-47,US,AIR,defense,AIR   B-47,B-47,USAF
+B-52,B-52,US,AIR,defense,AIR   B-52,B-52 Stratofortress,USAF
+B-52G,B-52G,US,AIR,defense,AIR   B-52G,B-52 Stratofortress,USAF
+B-52H,B-52H,US,AIR,defense,AIR   B-52H,B-52 Stratofortress,USAF
+B-57A,B-57A,US,AIR,defense,AIR   B-57A,B-57 Canberra,USAF
+B-57B,B-57B,US,AIR,defense,AIR   B-57B,B-57 Canberra,USAF
+B-58,B-58,US,AIR,defense,AIR   B-58,B-58 Hustler,USAF
+B-62,B-62,SU,SUB,defense,SUB   B-62,B-62 submarine,VMF
+B-67,B-67,SU,SUB,defense,SUB   B-67,B-67 submarine,VMF
+BUGAEV,BUGAEV,SU,SHIP,defense,SHIP  BUGAEV,Bugaev,VMF
+Balloon,Balloon,US,AIR,defense,AIR   Balloon,Balloon,USAF
+C-130,C-130,US,AIR,defense,AIR   C-130,C-130 Hercules,USAF
+C-17,C-17,US,AIR,defense,AIR   C-17,C-17 cargo plane,USAF
+C-5A,C-5A,US,AIR,defense,AIR   C-5A,C-5A Galaxy,USAF
+CG-20,DLG-20,US,SHIP,defense,SHIP  CG-20,USS Richmond K. Turner (was DLG-20 prior to 1975),USN
+CG-29,CG-29,US,SHIP,defense,SHIP  CG-29,USS Jouett,USN
+CG-67,CG-67,US,SHIP,defense,SHIP  CG-67,USS Shiloh,USN
+CG-70,CG-70,US,SHIP,defense,SHIP  CG-70,USS Lake Erie,USN
+CV-41,CV-41,US,SHIP,defense,SHIP  CV-41,USS Midway,USN
+CVE-25,CVE-25,US,SHIP,defense,SHIP  CVE-25,"USNS Croatan, T-AKV 43 (former CVE-25), Wallops Mobile Range Facility",USN
+DD-787,DD-787,US,SHIP,defense,SHIP  DD-787,USS Kyes,USN
+DD-790,DD-790,US,SHIP,defense,SHIP  DD-790,USS Shelton,USN
+DD-843,DD-843,US,SHIP,defense,SHIP  DD-843,USS Warrington,USN
+DDG-1,DDG-1,US,SHIP,defense,SHIP  DDG-1,USS Hazelwood,USN
+DDG-173,DDG-173,J,SHIP,defense,SHIP  DDG-173,JS Kongo,JMSDF
+DDG-174,DDG-174,J,SHIP,defense,SHIP  DDG-174,JS Kirishima,JMSDF
+DDG-175,DDG-175,J,SHIP,defense,SHIP  DDG-175,JS Myoko,JMSDF
+DDG-176,DDG-176,J,SHIP,defense,SHIP  DDG-176,JS Chokai,JMSDF
+DDG-53,DDG-53,US,SHIP,defense,SHIP  DDG-53,USS John Paul Jones,USN
+DDG-60,DDG-60,US,SHIP,defense,SHIP  DDG-60,USS Paul Hamilton,USN
+DDG-62,DDG-62,US,SHIP,defense,SHIP  DDG-62,USS Fitzgerald,USN
+DDG-65,DDG-65,US,SHIP,defense,SHIP  DDG-65,USS Benfold,USN
+DDG-68,DDG-68,US,SHIP,defense,SHIP  DDG-68,USS The Sullivans,USN
+DDG-70,DDG-70,US,SHIP,defense,SHIP  DDG-70,USS Hopper,USN
+DDG-71,DDG-71,US,SHIP,defense,SHIP  DDG-71,USS Ross,USN
+DDG-73,DDG-73,US,SHIP,defense,SHIP  DDG-73,USS Decatur,USN
+DDG-74,DDG-74,US,SHIP,defense,SHIP  DDG-74,USS McFaul,USN
+DDG-75,DDG-75,US,SHIP,defense,SHIP  DDG-75,USS Donald Cook,USN
+DDG-77,DDG-77,US,SHIP,defense,SHIP  DDG-77,USS O/Kane,USN
+DELTA2,DELTA2,SU,SUB,defense,SUB   DELTA2,Unknown Delta 2 class submarine,VMF
+DELTA3,DELTA3,SU,SUB,defense,SUB   DELTA3,Unknown Delta 3 class submarine,VMF
+DELTA4,DELTA4,SU,SUB,defense,SUB   DELTA4,Unknown Delta 4 class submarine,VMF
+DLG-20,DLG-20,US,SHIP,defense,SHIP  CG-20,USS Richmond K. Turner (was DLG-20 prior to 1975),USN
+EAG-154,EAG-154,US,SHIP,defense,SHIP  EAG-154,USNS Observation Island (became AGM-23 in 1977),USN
+F-104,F-104,US,AIR,defense,AIR   F-104,F-104 Starfighter S/N 60749,USAF
+F-15,F-15,US,AIR,defense,AIR   F-15,"F-15 Eagle, ASAT program.",USAF
+F-15D,F-15D,IL,AIR,defense,AIR   F-15,"F-15D Eagle, Black Sparrow program.",IDF
+F-3B,F-3B,US,AIR,defense,AIR   F-3B,F-3B Demon,USAF
+F-4,F-4,US,AIR,defense,AIR   F-4,F-4 Phantom?,USAF
+F-4B,F-4B,US,AIR,defense,AIR   F-4B,F-4B Phantom,USAF
+F-4C,F-4C,US,AIR,defense,AIR   F-4C,F-4C Phantom,USAF
+F-4D,F-4D,US,AIR,defense,AIR   F-4D,F-4D Phantom,USAF
+F-4H,F-4H,US,AIR,defense,AIR   F-4H,F-4H Phantom,USN
+F-86D,F-86D,US,AIR,defense,AIR   F-86D,"F-86D, Rockaire program",USAF
+F2H2,F2H2,US,AIR,defense,AIR   F2H2,F2H2 Banshee,USAF
+F4D-1 747,F4D-1 747,US,AIR,defense,AIR   F4D-1 747,F4D-1 Skyray S/N 130747,USAF
+FB-111,FB-111,US,AIR,defense,AIR   FB-111,FB-111,USAF
+GOLF,GOLF,SU,SUB,defense,SUB   GOLF,Unknown Golf submarine,VMF
+GOLF-C,GOLF-C,SU,SUB,defense,SUB   GOLF-C,"Unknown Golf class submarine, Chinese navy",PLANS
+GOLF2,GOLF2,SU,SUB,defense,SUB   GOLF2,Unknown Golf 2 submarine,VMF
+HOTEL2,HOTEL2,SU,SUB,defense,SUB   HOTEL2,Unknown Hotel 2 submarine,VMF
+HULU,HULU,CN,SUB,defense,SUB   HULU,"Huludao, submarine",PLANS
+INS-D15,INS-D15,IN,SHIP,defense,SHIP  INS-D15,INS Rajput (D-15),INAV
+INS-OPV,INS-OPV,IN,SHIP,defense,SHIP  INS,Unknown INS Offshore Patrol Vessel (INS-P51 and similar),INAV
+INS-P51,INS-P51,IN,SHIP,defense,SHIP  INS-P51,INS Subhadra (P-51),INAV
+INS-P52,INS-P52,IN,SHIP,defense,SHIP  INS-P52,INS Suvarna (P-52),INAV
+INS-S73,INS-S73,IN,SUB,defense,SUB   INS-S73,INS Arihant (S-73),INAV
+JRTI,JRTI,US,SHIP,civilian,ASDS  JRTI,"Just Read The Instructions, SpaceX Autonomous Spaceport Drone Ship",SPX
+K-102,K-102,SU,SUB,defense,SUB   K-102,K-102 Project 605 Submarine (was B-121),VMF
+K-114,K-114,SU,SUB,defense,SUB   K-114,K-114 Tula Submarine 667BRDRM (Sev. Flot),VMF
+K-117,K-117,SU,SUB,defense,SUB   K-117,K-117 Bryansk Submarine 667BDRM (Sev. Flot),VMF
+K-140,K-140,SU,SUB,defense,SUB   K-140,K-140 Submarine,VMF
+K-145,K-145,SU,SUB,defense,SUB   K-145,K-145 Submarine,VMF
+K-170,K-170,SU,SUB,defense,SUB   K-170,Unknown Project 675 (Echo II) submarine,VMF
+K-18,K-18,SU,SUB,defense,SUB   K-18,K-18 Karelia submarine 667BDRM (Sev. Flot),VMF
+K-211,K-211,SU,SUB,defense,SUB   K-211,K-211 Petropavlovsk-Kamchatkskiy submarine 667BDR Pac. Flt.  (Delta III),VMF
+K-223,K-223,SU,SUB,defense,SUB   K-223,"K-223 Podolsk submarine, 667BDR Pac. Flt",VMF
+K-407,K-407,SU,SUB,defense,SUB   K-407,K-407 Novomoskvosk Submarine 667BDRM  (Sev. Flot),VMF
+K-433,K-433,SU,SUB,defense,SUB   K-433,K-433 Svyaity Georgiy Pobedonosets Submarine 667BDR (Pac. flt),VMF
+K-44,K-44,SU,SUB,defense,SUB   K-44,K-44 Ryazan Submarine 667BDR (Sev. Flot),VMF
+K-496,K-496,SU,SUB,defense,SUB   K-496,"K-496 Borisoglebsk, submarine 667BDR (Sev. Flot)",VMF
+K-506,K-506,SU,SUB,defense,SUB   K-506,K-506 Zelenograd submarine 667BDR (Pac. Flt),VMF
+K-51,K-51,SU,SUB,defense,SUB   K-51,K-51 Verkhoturiye Sumbarine 667BDRM (Sev. Flot),VMF
+K-535,K-535,RU,SUB,defense,SUB   K-535,"K-535 Yuriy Dolgorukiy submarine, class 955",VMF
+K-550,K-550,RU,SUB,defense,SUB   K-550,"K-550 Aleksandry Nevskiy submarine, class 955",VMF
+K-551,K-551,RU,SUB,defense,SUB   K-551,"K-551 Vladimir Monomakh, class 955",VMF
+K-84,K-84,SU,SUB,defense,SUB   K-84,K-84 Ekaterinburg Submarine 667BDRM (Sev. Flot),VMF
+KALMAR,KALMAR,SU,SUB,defense,SUB   KALMAR,Unknown Kalmar (Delta III) class submarine,VMF
+KORO,KORO,SU,SHIP,defense,SHIP  KORO,Akademik Korolev,VMF
+KPN PLAT,KPN PLAT,KP,SUB,defense,SUB KPN Barge,"Submerged barge,Korean People's Navy",KPA
+KPN UNK,KPN UNK,KP,SUB,defense,SUB   SINPO,"Unknown Sinpo class submarine, Korean People's Navy",KPA
+KRENKEL',KRENKEL',SU,SHIP,defense,SHIP  KRENKEL',Krenkel',VMF
+L-1011,L-1011,US,AIR,defense,AIR   L-1011,L-1011 Stargazer,OSC
+LSD-14,LSD-14,US,SHIP,defense,SHIP  LSD-14,USS Rushmore,USN
+LSD-18,LSD-18,US,SHIP,defense,SHIP  LSD-18,USS Colonial,USN
+LSD-29,LSD-29,US,SHIP,defense,SHIP  LSD-29,USS Plymouth Rock,USN
+LSD-31,LSD-31,US,SHIP,defense,SHIP  LSD-31,USS Point Defiance,USN
+LUT1,LUT1,US,PLAT,defense,PLAT  LUT1,Launch Umbilical Tower 1,NASA
+LUT2,LUT2,US,PLAT,defense,PLAT  LUT2,Launch Umbilical Tower 2,NASA
+LUT3,LUT3,US,PLAT,defense,PLAT  LUT3,Launch Umbilical Tower 3,NASA
+MLP,MLP,US,SHIP,defense,SHIP  MLP,US Army Mobile Launch Platform (USS Tripoli),USA
+MLP1,LUT3,US,PLAT,defense,PLAT  MLP1,Mobile Launch Platform 1,NASA
+MLP2,LUT2,US,PLAT,defense,PLAT  MLP2,Mobile Launch Platform 2,NASA
+MLP3,LUT1,US,PLAT,defense,PLAT  MLP3,Mobile Launch Platform 3,NASA
+MUSSON,MUSSON,SU,SHIP,defense,SHIP  MUSSON,Musson,VMF
+MiG31D-72,MiG31D-72,SU,AIR,defense,Mig-31D 07-2,Mig-31D 07-2,PVO
+NB-52,NB-52,US,AIR,defense,AIR   NB-52,NB-52 Stratofortress (S/N 003 or 008),USAF
+NB-52 003,NB-52 003,US,AIR,defense,AIR   NB-52 003,NB-52A Stratofortress S/N 003,USAF
+NB-52 008,NB-52 008,US,AIR,defense,AIR   NB-52 008,NB-52B Stratofortress S/N 008,USAF
+NOKV,NOKV,SU,SHIP,defense,SHIP  NOKV,Noyekov,VMF
+OCISLY,OCISLY,US,SHIP,civilian,ASDS  OCISLY,"Of Course I Still Love You, SpaceX Autonomous Spaceport Drone Ship",SPX
+ODYSSEY,ODYSSEY,US,SHIP,defense,SHIP  ODYSSEY,Sea Launch Odyssey,BOSL
+PASSAT,PASSAT,SU,SHIP,defense,SHIP  PASSAT,Passat,VMF
+PLBR,PLBR,SU,SUB,defense,SUB   PLBR,Unknown Soviet/Russian ballistic missile submarine,VMF
+PRILIV,PRILIV,SU,SHIP,defense,SHIP  PRILIV,Priliv,VMF
+RB-57B,RB-57B,US,AIR,defense,AIR   RB-57B,B-57 Canberra,USAF
+RB-57C,RB-57C,US,AIR,defense,AIR   RB-57C,B-57 Canberra,USAF
+RREC,RREC,US,SHIP,defense,SHIP  RREC,"USNS Range Recoverer, T-AG-161",USN
+S-229,S-229,SU,SUB,defense,SUB   S-229,S-229 Submarine,VMF
+S610,S610,F,SUB,defense,SUB   S610,SNLE S610 Le Foudroyant,ARMF
+S611,S611,F,SUB,defense,SUB   S611,SNLE S611 Le Redoutable,ARMF
+S612,S612,F,SUB,defense,SUB   S612,SNLE S612 Le Terrible,ARMF
+S613,S613,F,SUB,defense,SUB   S613,SNLE S613 L'Indomptable,ARMF
+S614,S614,F,SUB,defense,SUB   S614,SNLE S614 Le Tonnant,ARMF
+S615,S615,F,SUB,defense,SUB   S615,SNLE S615 L'Inflexible,ARMF
+S616,S616,F,SUB,defense,SUB   S616,SNLE-NG S616 Le Triomphant,ARMF
+S617,S617,F,SUB,defense,SUB   S617,SNLE-NG S617 Le Temeraire,ARMF
+S618,S618,F,SUB,defense,SUB   S618,SNLE-NG S618 Le Vigilant,ARMF
+S655,S655,F,SUB,defense,SUB   S655,SNLE S655 Gymnote,ARMF
+SHIP-ISR,SHIP-ISR,IL,SHIP,defense,SHIP  SHIP-ISR,Unknown Israeli ship,IDF
+SHIP-S,SHIP-S,US,SHIP,defense,SHIP  SHIP-S,"Ship Sierra, MRN  (maybe Range Recoverer?)",USN
+SHIP-SOV,SHIP-SOV,SU,SHIP,defense,SHIP  SHIP-SOV,Unknown Soviet ship,VMF
+SHIP-US,SHIP-US,US,SHIP,defense,SHIP  SHIP-US,Unknown US ship,USN
+SHIR,SHIR,SU,SHIP,defense,SHIP  SHIR,Shirshov,VMF
+SHOK,SHOK,SU,SHIP,defense,SHIP  SHOK,Shokalski,VMF
+SIR,SIR,KR,SHIP,defense,SHIP  SIRIUS,"Sirius barge, Anhueng",ADD
+SNLE,SNLE,F,SUB,defense,SUB   SNLE,"Unknown SNLE submarine, Marine Francaise",ARMF
+SSBN 598,SSBN 598,US,SUB,defense,SUB   SSBN 598,George Washington,USN
+SSBN 599,SSBN 599,US,SUB,defense,SUB   SSBN 599,Patrick Henry,USN
+SSBN 600,SSBN 600,US,SUB,defense,SUB   SSBN 600,Theodore Roosevelt,USN
+SSBN 601,SSBN 601,US,SUB,defense,SUB   SSBN 601,Robert E Lee,USN
+SSBN 602,SSBN 602,US,SUB,defense,SUB   SSBN 602,Abraham Lincoln,USN
+SSBN 608,SSBN 608,US,SUB,defense,SUB   SSBN 608,Ethan Allen,USN
+SSBN 609,SSBN 609,US,SUB,defense,SUB   SSBN 609,Sam Houston,USN
+SSBN 610,SSBN 610,US,SUB,defense,SUB   SSBN 610,Thomas A Edison,USN
+SSBN 611,SSBN 611,US,SUB,defense,SUB   SSBN 611,John Marshall,USN
+SSBN 616,SSBN 616,US,SUB,defense,SUB   SSBN 616,Lafayette,USN
+SSBN 617,SSBN 617,US,SUB,defense,SUB   SSBN 617,Alexander Hamilton,USN
+SSBN 618,SSBN 618,US,SUB,defense,SUB   SSBN 618,Thomas Jefferson,USN
+SSBN 619,SSBN 619,US,SUB,defense,SUB   SSBN 619,Andrew Jackson,USN
+SSBN 620,SSBN 620,US,SUB,defense,SUB   SSBN 620,John Adams,USN
+SSBN 622,SSBN 622,US,SUB,defense,SUB   SSBN 622,James Monroe,USN
+SSBN 623,SSBN 623,US,SUB,defense,SUB   SSBN 623,Nathan Hale,USN
+SSBN 624,SSBN 624,US,SUB,defense,SUB   SSBN 624,Woodrow Wilson,USN
+SSBN 625,SSBN 625,US,SUB,defense,SUB   SSBN 625,Henry Clay,USN
+SSBN 626,SSBN 626,US,SUB,defense,SUB   SSBN 626,Daniel Webster,USN
+SSBN 627,SSBN 627,US,SUB,defense,SUB   SSBN 627,James Madison,USN
+SSBN 628,SSBN 628,US,SUB,defense,SUB   SSBN 628,Tecumseh,USN
+SSBN 629,SSBN 629,US,SUB,defense,SUB   SSBN 629,Daniel Boone,USN
+SSBN 630,SSBN 630,US,SUB,defense,SUB   SSBN 630,John C Calhoun,USN
+SSBN 631,SSBN 631,US,SUB,defense,SUB   SSBN 631,Ulysses S Grant,USN
+SSBN 632,SSBN 632,US,SUB,defense,SUB   SSBN 632,Von Steuben,USN
+SSBN 633,SSBN 633,US,SUB,defense,SUB   SSBN 633,Casimir Pulaski,USN
+SSBN 634,SSBN 634,US,SUB,defense,SUB   SSBN 634,Stonewall Jacskon,USN
+SSBN 635,SSBN 635,US,SUB,defense,SUB   SSBN 635,Sam Rayburn,USN
+SSBN 636,SSBN 636,US,SUB,defense,SUB   SSBN 636,Nathanael Greene,USN
+SSBN 640,SSBN 640,US,SUB,defense,SUB   SSBN 640,Benjamin Franklin,USN
+SSBN 641,SSBN 641,US,SUB,defense,SUB   SSBN 641,Simon Bolivar,USN
+SSBN 642,SSBN 642,US,SUB,defense,SUB   SSBN 642,Kamehameha,USN
+SSBN 643,SSBN 643,US,SUB,defense,SUB   SSBN 643,George Bancroft,USN
+SSBN 644,SSBN 644,US,SUB,defense,SUB   SSBN 644,Lewis and Clark,USN
+SSBN 645,SSBN 645,US,SUB,defense,SUB   SSBN 645,James K Polk,USN
+SSBN 654,SSBN 654,US,SUB,defense,SUB   SSBN 654,George C Marshall,USN
+SSBN 655,SSBN 655,US,SUB,defense,SUB   SSBN 655,Henry L Stimson,USN
+SSBN 656,SSBN 656,US,SUB,defense,SUB   SSBN 656,George Washington Carver,USN
+SSBN 657,SSBN 657,US,SUB,defense,SUB   SSBN 657,Francis Scott Key,USN
+SSBN 658,SSBN 658,US,SUB,defense,SUB   SSBN 658,Mariano G Vallejo,USN
+SSBN 659,SSBN 659,US,SUB,defense,SUB   SSBN 659,Will Rogers,USN
+SSBN 726,SSBN 726,US,SUB,defense,SUB   SSBN 726,Ohio,USN
+SSBN 727,SSBN 727,US,SUB,defense,SUB   SSBN 727,Michigan,USN
+SSBN 728,SSBN 728,US,SUB,defense,SUB   SSBN 728,Florida,USN
+SSBN 729,SSBN 729,US,SUB,defense,SUB   SSBN 729,Georgia,USN
+SSBN 730,SSBN 730,US,SUB,defense,SUB   SSBN 730,Henry M. Jackson,USN
+SSBN 731,SSBN 731,US,SUB,defense,SUB   SSBN 731,Alabama,USN
+SSBN 732,SSBN 732,US,SUB,defense,SUB   SSBN 732,Alaska,USN
+SSBN 733,SSBN 733,US,SUB,defense,SUB   SSBN 733,Nevada,USN
+SSBN 734,SSBN 734,US,SUB,defense,SUB   SSBN 734,Tennessee,USN
+SSBN 735,SSBN 735,US,SUB,defense,SUB   SSBN 735,Pennsylvania,USN
+SSBN 736,SSBN 736,US,SUB,defense,SUB   SSBN 736,West Virginia,USN
+SSBN 737,SSBN 737,US,SUB,defense,SUB   SSBN 737,Kentucky,USN
+SSBN 738,SSBN 738,US,SUB,defense,SUB   SSBN 738,Maryland,USN
+SSBN 739,SSBN 739,US,SUB,defense,SUB   SSBN 739,Nebraska,USN
+SSBN 740,SSBN 740,US,SUB,defense,SUB   SSBN 740,Rhode Island,USN
+SSBN 741,SSBN 741,US,SUB,defense,SUB   SSBN 741,Maine,USN
+SSBN 742,SSBN 742,US,SUB,defense,SUB   SSBN 742,Wyoming,USN
+SSBN 743,SSBN 743,US,SUB,defense,SUB   SSBN 743,Louisiana,USN
+SSBN UNK,SSBN UNK,US,SUB,defense,SUB   SSBN,"Unknown SSBN submarine, USN",ARMF
+T-AGM-12,T-AGM-12,US,SHIP,defense,SHIP  T-AGM-12,USAS American Mariner,USN
+T-AGM-2,T-AGM-2,US,SHIP,defense,SHIP  T-AGM-2,USNS Range Recoverer,USN
+T-AGM-8,T-AGM-8,US,SHIP,defense,SHIP  T-AGM-8,USNS Wheeling,USN
+T094,T094,CN,SUB,defense,SUB   Type 094,Unknown Jinji Qianting (Type 094) class submarine,PLANS
+TAIFUN,TAIFUN,SU,SUB,defense,SUB   TAIFUN,Unknown 941 class submarine,VMF
+TK-20,TK-20,SU,SUB,defense,SUB   TK-20,Severstal TK-20  submarine,VMF
+TK-208,TK-208,SU,SUB,defense,SUB   TK-208,Dmitry Donskoy TK-208 submarine 941 class,VMF
+UK S22,UK S22,UK,SUB,defense,SUB   UK S22,HMS Resolution   (UK01),RN
+UK S23,UK S23,UK,SUB,defense,SUB   UK S23,HMS Repulse      (UK03),RN
+UK S26,UK S26,UK,SUB,defense,SUB   UK S26,HMS Renown       (UK02),RN
+UK S27,UK S27,UK,SUB,defense,SUB   UK S27,HMS Revenge      (UK04),RN
+UK S28,UK S28,UK,SUB,defense,SUB   UK S28,HMS Vanguard     (UK05),RN
+UK S29,UK S29,UK,SUB,defense,SUB   UK S29,HMS Victorious   (UK06),RN
+UK S30,UK S30,UK,SUB,defense,SUB   UK S30,HMS Vigilant,RN
+UK S31,UK S31,UK,SUB,defense,SUB   UK S31,HMS Vengeance,RN
+USHAKOV,USHAKOV,SU,SHIP,defense,SHIP  USHAKOV,Ushakov,VMF
+VISE,VISE,SU,SHIP,defense,SHIP  VISE,Prof. Vise,VMF
+VOKV,VOKV,SU,SHIP,defense,SHIP  VOKV,Voiekov,VMF
+VOLNA,VOLNA,SU,SHIP,defense,SHIP  VOLNA,Volna,VMF
+WK1,WK1,US,AIR,business,White Knight 1,White Knight 1,SCAL
+WK2,WK2,US,AIR,business,White Knight 2,White Knight 2,TSCO
+WYG-279,WYG-279,US,SHIP,defense,SHIP  WYG-279,USCGC Eastwind,USCG
+XIA,XIA,CN,SUB,defense,SUB   XIA,Unknown Xia class submarine,PLANS
+YANKEE,YANKEE,SU,SUB,defense,SUB   YANKEE,Unknown Yankee class submarine,VMF
+ZUB,ZUB,SU,SHIP,defense,SHIP  ZUB,Prof. Zubov,VMF
+ZULUV,ZULUV,SU,SUB,defense,SUB   ZULUV,Unknown Zulu V class submarine,VMF

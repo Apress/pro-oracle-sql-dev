@@ -1,0 +1,3266 @@
+ORG_CODE,ORG_TYPE
+10ADS,launch agency
+11TMS,launch agency
+1GMR,launch agency
+1GMS,launch agency
+1PBS,launch agency
+1STRAD,launch agency
+209FA,launch agency
+2GMS,launch agency
+2SLS,launch agency
+30FA2,launch agency
+30SW,launch agency
+321SMW,launch agency
+341MW,launch agency
+341SMW,launch agency
+341SW,launch agency
+351SMW,launch agency
+36AIS,launch agency
+3GMS,launch agency
+3SLS,launch agency
+40FA,launch agency
+40FA1,launch agency
+41FA1,launch agency
+41FA4,launch agency
+44FA2,launch agency
+44SMW,launch agency
+4504MTW,launch agency
+4505M,launch agency
+455SMW,launch agency
+46FA2,launch agency
+4803GMS,launch agency
+4SLS,launch agency
+4WG,launch agency
+4WG,school
+556SMS,launch agency
+564SMS,launch agency
+576FTS,launch agency
+576SMS,launch agency
+6555A,launch agency
+6555GMS,launch agency
+69PBS,launch agency
+702SMW,launch agency
+79FA2,launch agency
+81FA1,launch agency
+84FA3,launch agency
+90MW,launch agency
+90SMW,launch agency
+90SW,launch agency
+91MW,launch agency
+91SW,launch agency
+9FA3,launch agency
+AAAF,launch site
+AACH,organization
+AACH,satellite manufacturer
+AACH,school
+AACHR,organization
+AACHR,satellite manufacturer
+AACM,satellite manufacturer
+AADC,launch agency
+AALTO,organization
+AALTO,satellite manufacturer
+AAMV,satellite manufacturer
+AAP,organization
+AAT,country
+AAU,organization
+AAU,satellite manufacturer
+ABAE,organization
+ABE,organization
+ABL,engine/motor manufacturer
+ABL,launch vehicle manufacturer
+ABLN,engine/motor manufacturer
+ABMA,engine/motor manufacturer
+ABMA,launch agency
+ABMA,launch vehicle manufacturer
+ABMA,organization
+ABMA,satellite manufacturer
+ABMDA,launch agency
+ABS,organization
+ACAE,organization
+ACC,launch agency
+ACE,organization
+ACES,organization
+ACESI,organization
+ACF,organization
+ACF,satellite manufacturer
+ADD,engine/motor manufacturer
+ADD,launch agency
+ADD,launch vehicle manufacturer
+ADD,organization
+ADEL,school
+ADIG,organization
+ADIG,satellite manufacturer
+ADSAQ,launch vehicle manufacturer
+ADSB,satellite manufacturer
+ADSDF,satellite manufacturer
+ADSFL,satellite manufacturer
+ADSG,launch vehicle manufacturer
+ADSL,engine/motor manufacturer
+ADSLV,launch vehicle manufacturer
+ADSM,satellite manufacturer
+ADSO,engine/motor manufacturer
+ADSO,satellite manufacturer
+ADST,satellite manufacturer
+ADSUK,satellite manufacturer
+AE,launch agency
+AE,organization
+AEB,launch agency
+AEB,organization
+AEB,school
+AEC,launch agency
+AEC,organization
+AEC,school
+AECAB,satellite manufacturer
+AECSG,launch vehicle manufacturer
+AEDC,engine/motor manufacturer
+AELM,launch vehicle manufacturer
+AELM,satellite manufacturer
+AEML,launch vehicle manufacturer
+AEML,satellite manufacturer
+AENUT,launch vehicle manufacturer
+AERAR,school
+AERIT,launch vehicle manufacturer
+AERIT,satellite manufacturer
+AERO,engine/motor manufacturer
+AERO,launch agency
+AERO,organization
+AERO,satellite manufacturer
+AERO,school
+AEROA,satellite manufacturer
+AEROAC,satellite manufacturer
+AEROACL,satellite manufacturer
+AEROL,launch vehicle manufacturer
+AEROLR,launch vehicle manufacturer
+AERON,satellite manufacturer
+AERONM,satellite manufacturer
+AEROPH,launch vehicle manufacturer
+AES,school
+AESCO,satellite manufacturer
+AESP,launch agency
+AESPC,launch vehicle manufacturer
+AESPC,satellite manufacturer
+AESPC,school
+AETE,launch agency
+AETE,meteorological
+AF,country
+AFAL,school
+AFAMC,launch agency
+AFAPL,school
+AFBMD,launch agency
+AFBMD,organization
+AFBMO,launch agency
+AFBMO2,launch agency
+AFCRL,launch agency
+AFCRL,launch vehicle manufacturer
+AFCRL,organization
+AFCRL,satellite manufacturer
+AFCRL,school
+AFETR,launch agency
+AFGL,launch agency
+AFGL,school
+AFGL2,launch agency
+AFIT,launch vehicle manufacturer
+AFIT,organization
+AFIT,satellite manufacturer
+AFMC,launch agency
+AFMCIT,organization
+AFMCSW,organization
+AFMDC,launch agency
+AFMTC,launch site
+AFORS,organization
+AFORS,satellite manufacturer
+AFORS,school
+AFRCO,organization
+AFRL,launch agency
+AFRL,organization
+AFRL,satellite manufacturer
+AFRL,school
+AFRLRZ,launch agency
+AFRLRZ,school
+AFROM,organization
+AFSC,launch agency
+AFSD,organization
+AFSMB,launch agency
+AFSMC,launch agency
+AFSMC,organization
+AFSMS,organization
+AFSOC,organization
+AFSPC,launch agency
+AFSPC,organization
+AFSSD,organization
+AFSSD2,organization
+AFSWC,launch agency
+AFSWC,school
+AFSWP,school
+AFTAC,launch agency
+AFTAC,school
+AFWDD,launch agency
+AFWL,school
+AG,country
+AGSL,organization
+AGUK,country
+AIL,satellite manufacturer
+AJ,engine/motor manufacturer
+AJ,launch vehicle manufacturer
+AJ,satellite manufacturer
+AJCA,engine/motor manufacturer
+AJGC,engine/motor manufacturer
+AJGC,launch vehicle manufacturer
+AJGC,satellite manufacturer
+AJP,engine/motor manufacturer
+AJRED,engine/motor manufacturer
+AJRFL,engine/motor manufacturer
+AJRRED,engine/motor manufacturer
+AJRSP,engine/motor manufacturer
+AJSP,engine/motor manufacturer
+AJSP,launch vehicle manufacturer
+AKAC,launch agency
+AKATT,organization
+AKCM,organization
+ALB,school
+ALC,satellite manufacturer
+ALCAF,satellite manufacturer
+ALCR,satellite manufacturer
+ALCS,launch agency
+ALCT,satellite manufacturer
+ALEN,satellite manufacturer
+ALENR,satellite manufacturer
+ALMAN,launch vehicle manufacturer
+ALPSP,satellite manufacturer
+ALYAH,organization
+AM,organization
+AM,satellite manufacturer
+AMAI,organization
+AMBR,organization
+AMBR,satellite manufacturer
+AMC,organization
+AMCEL,engine/motor manufacturer
+AMCG,organization
+AMCR,organization
+AMCS,organization
+AMDL,organization
+AMDL,satellite manufacturer
+AMF,organization
+AMF,satellite manufacturer
+AMIL,organization
+AMIL,satellite manufacturer
+AMIT,organization
+AMIT,satellite manufacturer
+AMLU,organization
+AMLU,satellite manufacturer
+AMNA,organization
+AMNA,satellite manufacturer
+AMNL,organization
+AMPCS,engine/motor manufacturer
+AMPCW,engine/motor manufacturer
+AMROC,engine/motor manufacturer
+AMROC,launch agency
+AMROC,launch vehicle manufacturer
+AMROC,school
+AMRU,organization
+AMRU,satellite manufacturer
+AMSAT,satellite manufacturer
+AMSC,organization
+AMUK,organization
+AMVU,organization
+AMVU,satellite manufacturer
+AN,launch agency
+AN,school
+ANBEL,organization
+ANNAU,satellite manufacturer
+ANSAL,launch agency
+ANSP,satellite manufacturer
+ANTEL,organization
+ANTN,country
+ANTX,satellite manufacturer
+ANUC,satellite manufacturer
+AO,country
+AOGMC,school
+AOMC,launch agency
+APAERO,satellite manufacturer
+APGC,launch agency
+APGC,school
+APL,launch agency
+APL,launch vehicle manufacturer
+APL,organization
+APL,satellite manufacturer
+APL,school
+APLS,satellite manufacturer
+APRZ,organization
+APT,organization
+APW,school
+AQ,country
+AR,country
+ARAB,organization
+ARC,engine/motor manufacturer
+ARC,launch agency
+ARC,organization
+ARC,satellite manufacturer
+ARC,school
+ARDC,launch agency
+ARGMA,launch agency
+ARIG,launch vehicle manufacturer
+ARMAD,engine/motor manufacturer
+ARMAD,launch agency
+ARMAD,launch vehicle manufacturer
+ARMAD,school
+ARMF,launch agency
+ARMT,engine/motor manufacturer
+ARMT,launch vehicle manufacturer
+ARMT,school
+ARPA,launch agency
+ARPA,organization
+ARR,launch agency
+ARR,organization
+ARR,school
+ARRS,launch agency
+ARSAT,organization
+ARSL,engine/motor manufacturer
+ARSL,launch vehicle manufacturer
+ARSL,satellite manufacturer
+ARSLO,satellite manufacturer
+ARTOPL,organization
+ARV,country
+ASAL,organization
+ASE,school
+ASFL,launch vehicle manufacturer
+ASGARD,organization
+ASI,launch agency
+ASI,organization
+ASI,school
+ASIA,organization
+ASID,engine/motor manufacturer
+ASL,launch agency
+ASL,school
+ASTA,satellite manufacturer
+ASTD,launch agency
+ASTD,satellite manufacturer
+ASTD,school
+ASTDF,satellite manufacturer
+ASTDYN,engine/motor manufacturer
+ASTFN,satellite manufacturer
+ASTL,engine/motor manufacturer
+ASTM,satellite manufacturer
+ASTNA,satellite manufacturer
+ASTO,engine/motor manufacturer
+ASTO,satellite manufacturer
+ASTRA,organization
+ASTRAN,organization
+ASTRV,organization
+ASTSC,satellite manufacturer
+ASTT,satellite manufacturer
+ASTUK,satellite manufacturer
+ASU,organization
+ASU,satellite manufacturer
+AT,country
+ATECH,school
+ATECHS,launch vehicle manufacturer
+ATEF,engine/motor manufacturer
+ATEF,launch agency
+ATEF,launch vehicle manufacturer
+ATI,satellite manufacturer
+ATK,engine/motor manufacturer
+ATKAB,satellite manufacturer
+ATKABL,engine/motor manufacturer
+ATKE,engine/motor manufacturer
+ATKE,launch vehicle manufacturer
+ATKG,satellite manufacturer
+ATKG,school
+ATKH,engine/motor manufacturer
+ATKP,engine/motor manufacturer
+ATKS,satellite manufacturer
+ATKTN,satellite manufacturer
+ATLA,school
+ATLC,launch vehicle manufacturer
+ATLR,engine/motor manufacturer
+ATLR,launch vehicle manufacturer
+ATLR,school
+ATSB,organization
+ATSB,satellite manufacturer
+ATT,organization
+ATTS,organization
+AU,country
+AUBU,organization
+AUBU,satellite manufacturer
+AUCZ,organization
+AUDACY,organization
+AUSP,satellite manufacturer
+AUSS,organization
+AVANTI,organization
+AVCO,satellite manufacturer
+AVIB,engine/motor manufacturer
+AVIB,launch vehicle manufacturer
+AVIB,satellite manufacturer
+AVIO,engine/motor manufacturer
+AVIO,satellite manufacturer
+AVKO,launch agency
+AWS,launch agency
+AWS,meteorological
+AXEL,satellite manufacturer
+AZ,country
+AZER,organization
+B,country
+BABTS,organization
+BABTS,satellite manufacturer
+BAC,launch agency
+BAC,launch vehicle manufacturer
+BAC,satellite manufacturer
+BAC,school
+BACB,launch vehicle manufacturer
+BAES,satellite manufacturer
+BAJ,school
+BAJUK,engine/motor manufacturer
+BAJUK,launch vehicle manufacturer
+BAL,engine/motor manufacturer
+BAL,launch agency
+BAL,launch vehicle manufacturer
+BAL,school
+BALL,satellite manufacturer
+BALM,satellite manufacturer
+BAS,school
+BAT,country
+BAUM,organization
+BAUM,satellite manufacturer
+BAYI,organization
+BB,country
+BBUK,country
+BCSCL,organization
+BD,country
+BELINT,organization
+BELL,engine/motor manufacturer
+BELT,engine/motor manufacturer
+BENDX,satellite manufacturer
+BERG,school
+BERN,school
+BG,country
+BGN,country
+BGU,satellite manufacturer
+BHSJ,organization
+BIGEL,organization
+BIGEL,satellite manufacturer
+BINA,organization
+BIR,school
+BKSA,organization
+BLMIT,organization
+BLOR,engine/motor manufacturer
+BLOR,launch vehicle manufacturer
+BLORTX,engine/motor manufacturer
+BLS,launch agency
+BLS,organization
+BM,country
+BMBW,organization
+BMDO,launch agency
+BMDO,launch vehicle manufacturer
+BMDO,organization
+BMDO,school
+BME,organization
+BME,satellite manufacturer
+BNAP,launch vehicle manufacturer
+BNAP,satellite manufacturer
+BNC,organization
+BNSC,organization
+BO,country
+BOC,launch vehicle manufacturer
+BOCH,school
+BOCP,satellite manufacturer
+BOES,satellite manufacturer
+BOHB,launch vehicle manufacturer
+BOHB,organization
+BOHB,satellite manufacturer
+BOHPS,satellite manufacturer
+BOHSM,satellite manufacturer
+BOHSV,launch vehicle manufacturer
+BOHSV,satellite manufacturer
+BOKT,launch vehicle manufacturer
+BOKT,satellite manufacturer
+BOL,organization
+BOL,satellite manufacturer
+BOL,school
+BOLK,satellite manufacturer
+BOMI,launch vehicle manufacturer
+BONN,school
+BONUM,organization
+BOOZA,organization
+BOOZA,satellite manufacturer
+BOPBL,launch vehicle manufacturer
+BOPW,satellite manufacturer
+BOSB,satellite manufacturer
+BOSL,launch agency
+BOSL,organization
+BOTUL,satellite manufacturer
+BOUT,launch vehicle manufacturer
+BPD,engine/motor manufacturer
+BPD,launch vehicle manufacturer
+BR,country
+BRAC,satellite manufacturer
+BRAE,engine/motor manufacturer
+BREC,engine/motor manufacturer
+BREI,school
+BREM,organization
+BREM,satellite manufacturer
+BRIS,satellite manufacturer
+BRIS,school
+BRL,launch agency
+BRL,launch vehicle manufacturer
+BRL,school
+BROWN,satellite manufacturer
+BRSW,school
+BRUNSW,launch vehicle manufacturer
+BRVCC,school
+BS,country
+BSAT,organization
+BSB,organization
+BSC,organization
+BSEL,engine/motor manufacturer
+BSELC,engine/motor manufacturer
+BSELL,engine/motor manufacturer
+BST,organization
+BST,satellite manufacturer
+BST,school
+BTL,launch agency
+BTL,satellite manufacturer
+BTRC,organization
+BU,school
+BUAA,satellite manufacturer
+BUCU,organization
+BUCU,satellite manufacturer
+BUSEK,engine/motor manufacturer
+BWB,organization
+BWEHR,launch agency
+BWYIC,engine/motor manufacturer
+BWYIC,satellite manufacturer
+BY,country
+CA,country
+CAL,school
+CALG,school
+CALP,organization
+CALP,satellite manufacturer
+CALP,school
+CALT,engine/motor manufacturer
+CALT,launch agency
+CALT,launch vehicle manufacturer
+CALT,satellite manufacturer
+CAM,school
+CAMSAT,organization
+CAMSAT,satellite manufacturer
+CANON,satellite manufacturer
+CANOP,organization
+CANOP,satellite manufacturer
+CAPSP,organization
+CARDE,launch agency
+CARDE,launch vehicle manufacturer
+CARDE,school
+CARDU,satellite manufacturer
+CARTH,satellite manufacturer
+CASA,satellite manufacturer
+CASAG,satellite manufacturer
+CASC,launch agency
+CASC,organization
+CASC,satellite manufacturer
+CASC6A,engine/motor manufacturer
+CASC6A1,engine/motor manufacturer
+CASDN,launch agency
+CASIC4A,launch vehicle manufacturer
+CASIOM,organization
+CAST,organization
+CAST,satellite manufacturer
+CAST,school
+CASTBZ,satellite manufacturer
+CASTIX,organization
+CATHU,satellite manufacturer
+CATON,satellite manufacturer
+CBKPL,organization
+CBKPL,satellite manufacturer
+CBMET,school
+CD,country
+CEA,school
+CEL,launch agency
+CEL,launch site
+CEL,school
+CELES,launch vehicle manufacturer
+CELML,launch site
+CERMA,school
+CERN,organization
+CERN,satellite manufacturer
+CESR,school
+CFTH,school
+CFTHB,engine/motor manufacturer
+CFTHB,launch vehicle manufacturer
+CGS,satellite manufacturer
+CGSO,satellite manufacturer
+CGSTL,organization
+CH,country
+CHAIL,satellite manufacturer
+CHAIL,school
+CHFEN,launch agency
+CHFEN,school
+CHIBA,organization
+CHIBA,satellite manufacturer
+CHIC,school
+CHIS,organization
+CHISA,organization
+CHISAE,organization
+CHORI,organization
+CHOSU,organization
+CHRY,launch vehicle manufacturer
+CI,country
+CIA,organization
+CIA,satellite manufacturer
+CIEL,organization
+CIFAS,satellite manufacturer
+CIFTQ,school
+CIN,school
+CIOMP,satellite manufacturer
+CISIR,school
+CIT,engine/motor manufacturer
+CIT,satellite manufacturer
+CIT,school
+CITED,engine/motor manufacturer
+CITED,launch agency
+CITED,launch vehicle manufacturer
+CITED,school
+CITEF,engine/motor manufacturer
+CITEF,launch agency
+CITEF,launch vehicle manufacturer
+CITEF,school
+CK,country
+CL,country
+CLAAC,satellite manufacturer
+CLARK,satellite manufacturer
+CLASP,organization
+CLEM,school
+CLSR,school
+CLYDE,satellite manufacturer
+CMMB,organization
+CMSEO,organization
+CN,country
+CNAE,launch agency
+CNES,launch agency
+CNES,launch vehicle manufacturer
+CNES,organization
+CNES,satellite manufacturer
+CNES,school
+CNEST,satellite manufacturer
+CNET,launch agency
+CNET,school
+CNIE,launch agency
+CNIE,school
+CNR,organization
+CNR,satellite manufacturer
+CNRS,school
+CNSA,organization
+CNSA,satellite manufacturer
+CNSAS,organization
+CNTS,organization
+CNU,organization
+CO,country
+COEP,organization
+COLC,organization
+COLE,launch agency
+COLE,launch vehicle manufacturer
+COLEA,launch vehicle manufacturer
+COLEAR,launch vehicle manufacturer
+COLP,country
+COM,organization
+COMAH,satellite manufacturer
+COMDEV,organization
+CONAE,launch agency
+CONAE,organization
+CONAE,school
+CONIE,school
+CONT,organization
+CONTR,engine/motor manufacturer
+CONTR,launch vehicle manufacturer
+CONTR,satellite manufacturer
+CONTS,satellite manufacturer
+CONV,launch vehicle manufacturer
+CONVPO,launch vehicle manufacturer
+COOP,engine/motor manufacturer
+COOP,launch vehicle manufacturer
+COPERN,organization
+CORAT,satellite manufacturer
+CORD,organization
+CORN,organization
+CORN,satellite manufacturer
+CORN,school
+COSG,organization
+COSG,satellite manufacturer
+COSG,school
+COSM,satellite manufacturer
+COSMOG,organization
+COSMOG,satellite manufacturer
+CPUT,organization
+CPUT,satellite manufacturer
+CR,country
+CRA,launch agency
+CRA,satellite manufacturer
+CRA,school
+CRC,organization
+CRC,satellite manufacturer
+CRC,school
+CRCSS,organization
+CRLI,launch agency
+CRLI,school
+CRR,school
+CRS,organization
+CRSEA,organization
+CRSF,launch agency
+CRTS,organization
+CSA,launch agency
+CSA,organization
+CSA,satellite manufacturer
+CSA,school
+CSD,engine/motor manufacturer
+CSFR,country
+CSG,launch site
+CSG,school
+CSICE,organization
+CSIMP,school
+CSIR,organization
+CSSAR,launch agency
+CSSAR,launch vehicle manufacturer
+CSSAR,school
+CSSR,country
+CSU,satellite manufacturer
+CSUN,satellite manufacturer
+CSXT,engine/motor manufacturer
+CSXT,launch agency
+CSXT,launch vehicle manufacturer
+CSXT,school
+CTA,organization
+CTA,satellite manufacturer
+CTEL,organization
+CTYK,organization
+CUBESP,organization
+CUBIC,satellite manufacturer
+CULH,school
+CUNYME,organization
+CUNYME,satellite manufacturer
+CYM,country
+CZ,country
+D,country
+DAC,engine/motor manufacturer
+DAC,launch vehicle manufacturer
+DAC,school
+DACC,launch vehicle manufacturer
+DACM,launch vehicle manufacturer
+DARA,organization
+DARE,engine/motor manufacturer
+DARE,launch agency
+DARE,launch vehicle manufacturer
+DARE,school
+DARPA,launch agency
+DARPA,organization
+DARPA,school
+DARPA2,organization
+DART,school
+DASA,launch agency
+DASA,organization
+DASA,school
+DASAF,satellite manufacturer
+DASAO,engine/motor manufacturer
+DASAO,satellite manufacturer
+DASARI,organization
+DASARI,satellite manufacturer
+DASARI,school
+DASBF,satellite manufacturer
+DASCF,satellite manufacturer
+DASST,launch agency
+DASST,launch vehicle manufacturer
+DAUR,organization
+DAUR,satellite manufacturer
+DBP,organization
+DBSD,organization
+DCA,organization
+DD,country
+DEHAVE,engine/motor manufacturer
+DEHAVS,launch vehicle manufacturer
+DEHAVS,satellite manufacturer
+DEHAVT,satellite manufacturer
+DEIMOS,organization
+DELFT,organization
+DELFT,satellite manufacturer
+DENV,satellite manufacturer
+DENV,school
+DERA,organization
+DERA,satellite manufacturer
+DFF,school
+DFH,organization
+DFH,satellite manufacturer
+DFHS,organization
+DFHS,satellite manufacturer
+DFHZ,satellite manufacturer
+DFRC,school
+DFVLR,launch agency
+DFVLR,organization
+DFVLR,school
+DGA,launch agency
+DGA,organization
+DGA,school
+DGAEM,launch site
+DGGROW,organization
+DGLO,organization
+DHSST,organization
+DISA,organization
+DISH,organization
+DK,country
+DLR,launch agency
+DLR,organization
+DLR,satellite manufacturer
+DLR,school
+DLRB,satellite manufacturer
+DLRRD,organization
+DLRRD,satellite manufacturer
+DMA,launch agency
+DMA,school
+DMC,organization
+DMI,launch agency
+DMI,organization
+DMI,school
+DML,country
+DNA,launch agency
+DNA,launch vehicle manufacturer
+DNA,school
+DND,organization
+DNE,satellite manufacturer
+DOD,launch agency
+DOE,satellite manufacturer
+DOE,school
+DORN,satellite manufacturer
+DORN,school
+DOSH,school
+DR,country
+DRA,organization
+DRA,satellite manufacturer
+DRDC,organization
+DRDL,launch agency
+DRDL,satellite manufacturer
+DRDO,engine/motor manufacturer
+DRDO,launch agency
+DRDO,launch vehicle manufacturer
+DRDO,satellite manufacturer
+DREXEL,organization
+DREXEL,satellite manufacturer
+DRG,engine/motor manufacturer
+DRG,launch agency
+DRG,launch vehicle manufacturer
+DRG,school
+DRTE,launch agency
+DRTE,organization
+DRTE,school
+DSI,satellite manufacturer
+DSIR,organization
+DSNC,organization
+DSRI,school
+DSSG,satellite manufacturer
+DSTO,launch agency
+DSTO,school
+DTI,launch vehicle manufacturer
+DTU,organization
+DTU,satellite manufacturer
+DTU,school
+DTV,organization
+DTVA,organization
+DTVLA,organization
+DUCOMM,satellite manufacturer
+DUD,school
+DUTCH,satellite manufacturer
+DUTEC,satellite manufacturer
+DUTH,satellite manufacturer
+DX,country
+DYN,satellite manufacturer
+DYNT,satellite manufacturer
+DZ,country
+E,country
+EAC,engine/motor manufacturer
+EAC,launch vehicle manufacturer
+EAC,school
+EADS,launch vehicle manufacturer
+EADS,satellite manufacturer
+EADS,school
+EADSA,launch vehicle manufacturer
+EADSB,organization
+EADSB,satellite manufacturer
+EADSCA,satellite manufacturer
+EADSG,launch vehicle manufacturer
+EADSL,launch vehicle manufacturer
+EADSO,engine/motor manufacturer
+EADSO,satellite manufacturer
+EARI,organization
+EARTH,astronomical polity
+EASF,organization
+EASF,satellite manufacturer
+EC,country
+ECHO,organization
+ECHOC,organization
+ECHOM,organization
+ECLIP,satellite manufacturer
+EDLS,satellite manufacturer
+EE,country
+EELEC,launch vehicle manufacturer
+EER,launch agency
+EER,organization
+EERSSI,launch vehicle manufacturer
+EG,country
+EGA,launch agency
+EGAO,engine/motor manufacturer
+EGAO,launch agency
+EGAO,launch vehicle manufacturer
+EGAO,school
+EGS,satellite manufacturer
+EHNS,organization
+EIAST,organization
+ELDEC,organization
+ELDEC,satellite manufacturer
+ELDO,launch agency
+ELDO,launch vehicle manufacturer
+ELDO,organization
+ELLT,satellite manufacturer
+ELUS,launch agency
+ELV,launch vehicle manufacturer
+ELYS,satellite manufacturer
+EMASH,engine/motor manufacturer
+EMBR,organization
+EMST,satellite manufacturer
+ENDUR,satellite manufacturer
+EOS,school
+EOSAT,organization
+EOSAU,organization
+EOSAU,satellite manufacturer
+EPFL,organization
+EPFL,satellite manufacturer
+ERAU,engine/motor manufacturer
+ERAU,launch agency
+ERAU,launch vehicle manufacturer
+ERAU,school
+ERDA,launch agency
+ERDA,school
+ERDL,launch agency
+ERDL,organization
+ERDL,school
+ERNO,engine/motor manufacturer
+ERNO,launch vehicle manufacturer
+ERNO,school
+ESA,launch agency
+ESA,organization
+ESA,school
+ESCN,country
+ESIE,organization
+ESIE,satellite manufacturer
+ESL,satellite manufacturer
+ESL1,satellite manufacturer
+ESRO,launch agency
+ESRO,organization
+ESRO,school
+ESSA,launch agency
+ESSA,organization
+ESSA,school
+ESSP,organization
+ESSP,satellite manufacturer
+ESTEC,launch agency
+ESTEC,organization
+ESTEC,satellite manufacturer
+ESTEC,school
+ESYS,satellite manufacturer
+ETAC,school
+ETEC,organization
+EUMET,organization
+EUPST,organization
+EURAS,organization
+EUROK,organization
+EUROL,launch agency
+EUROL,school
+EUROPK,engine/motor manufacturer
+EURSA,organization
+EURSG,organization
+EUTAM,organization
+EUTEL,organization
+EUTSA,organization
+EWAT,organization
+EXA,organization
+EXA,satellite manufacturer
+EXEA,organization
+EXOSA,launch vehicle manufacturer
+F,country
+FACH,organization
+FAI,organization
+FAI,satellite manufacturer
+FAIR,satellite manufacturer
+FAIRA,launch vehicle manufacturer
+FAIRA,satellite manufacturer
+FAIRH,satellite manufacturer
+FAIRHG,satellite manufacturer
+FAIRS,satellite manufacturer
+FAKEL,engine/motor manufacturer
+FAKEL,launch vehicle manufacturer
+FAKELO,engine/motor manufacturer
+FATAH,engine/motor manufacturer
+FATAH,launch vehicle manufacturer
+FHWN,satellite manufacturer
+FI,country
+FIAN,launch agency
+FIAN,launch vehicle manufacturer
+FIAN,organization
+FIAN,school
+FIAT,satellite manufacturer
+FIATA,engine/motor manufacturer
+FIATA,satellite manufacturer
+FING,organization
+FING,satellite manufacturer
+FIRES,satellite manufacturer
+FIRETR,satellite manufacturer
+FIT,school
+FKA,launch agency
+FKA,organization
+FKG,launch agency
+FKG1,launch agency
+FKG2,launch agency
+FKGR11,launch agency
+FKGR12,launch agency
+FKGR13,launch agency
+FKGR21,launch agency
+FKGR22,launch agency
+FLASP,launch agency
+FLASP,school
+FMI,organization
+FOKK,satellite manufacturer
+FOKKS,satellite manufacturer
+FOKKSS,satellite manufacturer
+FORDA,satellite manufacturer
+FORDAN,launch vehicle manufacturer
+FORDP,satellite manufacturer
+FORNB,satellite manufacturer
+FORSK,launch agency
+FPTU,organization
+FPTU,satellite manufacturer
+FRANK,school
+FRASC,school
+FRC,launch vehicle manufacturer
+FRC,school
+FREIB,school
+FSB,organization
+FSU,school
+FTB,launch site
+FTEL,organization
+FUDAN,organization
+FUKU,organization
+FUKU,satellite manufacturer
+FUSEI,engine/motor manufacturer
+FUTA,satellite manufacturer
+G2P,engine/motor manufacturer
+GAHSV,satellite manufacturer
+GAISH,organization
+GASL,satellite manufacturer
+GASL,school
+GASLA,satellite manufacturer
+GATCO,organization
+GATGD,organization
+GATGU,organization
+GATGU2,organization
+GATOM,organization
+GAU4,launch agency
+GAUSS,organization
+GAUSS,satellite manufacturer
+GAZ1,launch vehicle manufacturer
+GAZ1,satellite manufacturer
+GAZC,organization
+GAZS,organization
+GB5,launch agency
+GCA,school
+GCDX,organization
+GCR,engine/motor manufacturer
+GCRG,engine/motor manufacturer
+GDA,launch vehicle manufacturer
+GDC,satellite manufacturer
+GDCLS,launch agency
+GDG,satellite manufacturer
+GDOTS,engine/motor manufacturer
+GDPO,launch vehicle manufacturer
+GE,country
+GECAP,organization
+GEEW,satellite manufacturer
+GEMSD,satellite manufacturer
+GEMTS,engine/motor manufacturer
+GEMTS,launch agency
+GEMTS,launch vehicle manufacturer
+GEMTS,school
+GEOOPT,organization
+GERSD,satellite manufacturer
+GESNY,engine/motor manufacturer
+GEVF,satellite manufacturer
+GEYE,organization
+GFW,satellite manufacturer
+GFZ,organization
+GGPEN,organization
+GH,country
+GHALAM,organization
+GHG,organization
+GHJ,organization
+GI,country
+GICZ,satellite manufacturer
+GICZ,school
+GIMR,organization
+GISTDA,organization
+GIT,school
+GL,country
+GLOB,organization
+GMS,engine/motor manufacturer
+GMS,launch agency
+GMS,organization
+GMS,school
+GOBBZ,satellite manufacturer
+GOBME,satellite manufacturer
+GOEOS,satellite manufacturer
+GOMSP,organization
+GOMSP,satellite manufacturer
+GOS,organization
+GOYR,satellite manufacturer
+GOYR,school
+GOYRP,satellite manufacturer
+GPI,satellite manufacturer
+GPKS,organization
+GR,country
+GRC,engine/motor manufacturer
+GRI,school
+GRU,organization
+GRUM,launch vehicle manufacturer
+GRUM,satellite manufacturer
+GRUR,organization
+GSAEU,organization
+GSFC,launch agency
+GSFC,launch vehicle manufacturer
+GSFC,organization
+GSFC,satellite manufacturer
+GSFC,school
+GSOC,school
+GTC,satellite manufacturer
+GTE,organization
+GU,country
+GUF,country
+GUKOS,launch agency
+GUKOS,organization
+GUKOSR,launch agency
+GUKOSR,organization
+GURVO,launch agency
+GURVO,organization
+GWEST,satellite manufacturer
+GWHYZ,organization
+GYZ,organization
+HAC,launch agency
+HADC,launch agency
+HADC,launch site
+HADC,school
+HAFB,launch site
+HAL,launch vehicle manufacturer
+HAL,satellite manufacturer
+HAL5,engine/motor manufacturer
+HAL5,launch agency
+HAL5,launch vehicle manufacturer
+HAL5,school
+HAM,school
+HANAU,organization
+HANAU,satellite manufacturer
+HANWHA,launch vehicle manufacturer
+HAO,school
+HARB,organization
+HARB,satellite manufacturer
+HARK,satellite manufacturer
+HARP,launch agency
+HARP,school
+HASTD,engine/motor manufacturer
+HASTD,satellite manufacturer
+HASUN,satellite manufacturer
+HAVEL,satellite manufacturer
+HAWK,organization
+HAWK,satellite manufacturer
+HCG,organization
+HCI,organization
+HCO,satellite manufacturer
+HCO,school
+HDOS,satellite manufacturer
+HE360,organization
+HEAD,organization
+HEID,satellite manufacturer
+HELSA,organization
+HERAK,engine/motor manufacturer
+HERAKS,engine/motor manufacturer
+HERC,engine/motor manufacturer
+HERCM,engine/motor manufacturer
+HERCR,engine/motor manufacturer
+HEXI,engine/motor manufacturer
+HEXI4A,engine/motor manufacturer
+HGS,organization
+HHJ,satellite manufacturer
+HIBER,organization
+HIN,organization
+HIN,satellite manufacturer
+HISD,organization
+HISP,organization
+HISPM,organization
+HITS,satellite manufacturer
+HK,country
+HKUK,country
+HNS,organization
+HOG,school
+HOKIT,organization
+HOKIT,satellite manufacturer
+HOKK,school
+HONEY,satellite manufacturer
+HORZ,organization
+HOUS,school
+HOUW,engine/motor manufacturer
+HOUW,launch agency
+HOUW,launch vehicle manufacturer
+HPS,satellite manufacturer
+HQZS,organization
+HRBS,satellite manufacturer
+HRBSE,satellite manufacturer
+HSCIL,organization
+HSCIL,satellite manufacturer
+HSD,satellite manufacturer
+HSES,satellite manufacturer
+HTSTL,organization
+HTSTL,satellite manufacturer
+HU,country
+HUPO,launch vehicle manufacturer
+HVP,engine/motor manufacturer
+HVP,launch site
+I,country
+I-CSC,country
+I-CSC,intergovernmental organization
+I-CSC1,country
+I-CSC1,intergovernmental organization
+I-ELDO,country
+I-ELDO,intergovernmental organization
+I-ESA,country
+I-ESA,intergovernmental organization
+I-ESRO,country
+I-ESRO,intergovernmental organization
+I-EU,country
+I-EU,intergovernmental organization
+I-EUM,country
+I-EUM,intergovernmental organization
+I-EUT,country
+I-EUT,intergovernmental organization
+I-INM,country
+I-INM,intergovernmental organization
+I-INT,country
+I-INT,intergovernmental organization
+I-RASC,country
+I-RASC,intergovernmental organization
+IAA,school
+IACG,organization
+IAE,engine/motor manufacturer
+IAE,launch agency
+IAE,launch vehicle manufacturer
+IAE,school
+IAFE,school
+IAI,engine/motor manufacturer
+IAI,launch agency
+IAI,launch vehicle manufacturer
+IAI,satellite manufacturer
+IAIS,organization
+IAIS,satellite manufacturer
+IAM,school
+IAP,school
+IASB,school
+IBMH,satellite manufacturer
+IBSI,school
+ICANS,satellite manufacturer
+ICEYE,organization
+ICO,organization
+ICOH,organization
+ICONA,organization
+ICST,school
+ICTQ,organization
+ID,country
+IDF,launch agency
+IDF,organization
+IDG,launch agency
+IDG,school
+IDRDL,launch agency
+IE,country
+IEM,school
+IFAMR,school
+IGC,organization
+IHI,engine/motor manufacturer
+IHIA,engine/motor manufacturer
+IHIC,engine/motor manufacturer
+IHIC,satellite manufacturer
+IHIO,engine/motor manufacturer
+IHIO,satellite manufacturer
+IIAE,engine/motor manufacturer
+IIAE,launch agency
+IIAE,launch vehicle manufacturer
+IIAE,school
+IITB,organization
+IITB,satellite manufacturer
+IITK,organization
+IITK,satellite manufacturer
+IITM,school
+IITMC,organization
+IITMC,satellite manufacturer
+IK,organization
+IKI,organization
+IKI,satellite manufacturer
+IKI,school
+IL,country
+ILC,school
+ILS,launch agency
+ILSK,launch agency
+ILSKR,launch agency
+ILSL,launch agency
+IMAGT,organization
+IMBP,organization
+IMDP,school
+IMICAS,organization
+IMICAS,satellite manufacturer
+IMIS,engine/motor manufacturer
+IN,country
+INAVC,organization
+INCO,launch agency
+INCOT,launch agency
+INDO,organization
+INDOS,organization
+INETI,organization
+INFER,organization
+INFER,satellite manufacturer
+INFK,organization
+INFOC,organization
+INFOC,satellite manufacturer
+INMAR,organization
+INMRL,organization
+INPE,launch agency
+INPE,launch vehicle manufacturer
+INPE,organization
+INPE,satellite manufacturer
+INPE,school
+INPES,organization
+INPES,satellite manufacturer
+INSSET,satellite manufacturer
+INTA,engine/motor manufacturer
+INTA,launch agency
+INTA,launch vehicle manufacturer
+INTA,organization
+INTA,satellite manufacturer
+INTA,school
+INTEL,organization
+INTELB,organization
+INTELS,organization
+INTELU,organization
+INVAP,satellite manufacturer
+IOS,satellite manufacturer
+IPSF,satellite manufacturer
+IQ,country
+IQ,engine/motor manufacturer
+IQ223,launch agency
+IQ224,launch agency
+IQA,launch agency
+IQMIC,launch agency
+IQMIC,launch vehicle manufacturer
+IQMOST,organization
+IR,country
+IR,engine/motor manufacturer
+IRF,organization
+IRF,satellite manufacturer
+IRF,school
+IRID,organization
+IRIDS,organization
+IROST,organization
+IRSA,launch agency
+IRSA,organization
+IRSA,satellite manufacturer
+IRSA,school
+IRSS,school
+IS,country
+ISA,launch agency
+ISA,organization
+ISAC,satellite manufacturer
+ISAE,satellite manufacturer
+ISAEV,engine/motor manufacturer
+ISAS,engine/motor manufacturer
+ISAS,launch agency
+ISAS,launch vehicle manufacturer
+ISAS,organization
+ISAS,satellite manufacturer
+ISAS,school
+ISASJ,organization
+ISASJ,satellite manufacturer
+ISASM,organization
+ISASM,satellite manufacturer
+ISASS,organization
+ISASS,satellite manufacturer
+ISFC,launch agency
+ISISBV,organization
+ISISBV,satellite manufacturer
+ISKRM,engine/motor manufacturer
+ISKRP,engine/motor manufacturer
+ISPUT,organization
+ISRO,engine/motor manufacturer
+ISRO,launch agency
+ISRO,launch vehicle manufacturer
+ISRO,organization
+ISRO,satellite manufacturer
+ISRO,school
+IST,launch vehicle manufacturer
+ISTPK,organization
+ISTPK,satellite manufacturer
+ITA,satellite manufacturer
+ITBW,organization
+ITCR,organization
+ITRC,organization
+ITT,satellite manufacturer
+ITUTR,organization
+ITUTR,satellite manufacturer
+IUST,satellite manufacturer
+IZM,launch agency
+IZM,organization
+IZM,school
+J,country
+JARL,organization
+JARL,satellite manufacturer
+JAXA,engine/motor manufacturer
+JAXA,launch agency
+JAXA,launch vehicle manufacturer
+JAXA,organization
+JAXA,satellite manufacturer
+JAXA,school
+JAXAC,engine/motor manufacturer
+JAXAC,launch agency
+JAXAC,launch vehicle manufacturer
+JAXAC,organization
+JAXAC,satellite manufacturer
+JBO,school
+JCAB,organization
+JCSAT,organization
+JDA,launch agency
+JENA,satellite manufacturer
+JENAA,satellite manufacturer
+JHU,school
+JMA,launch agency
+JMA,organization
+JMA,school
+JMSDF,launch agency
+JO,country
+JPL,engine/motor manufacturer
+JPL,launch agency
+JPL,launch vehicle manufacturer
+JPL,organization
+JPL,satellite manufacturer
+JPL,school
+JRG,engine/motor manufacturer
+JRG,launch agency
+JRG,launch vehicle manufacturer
+JSAT,organization
+JSC,organization
+JSC,satellite manufacturer
+JSC,school
+JSDO,launch agency
+JTF7,launch agency
+JUNK,satellite manufacturer
+JUST,organization
+KACST,organization
+KACST,satellite manufacturer
+KAGA,organization
+KAGA,satellite manufacturer
+KAGO,organization
+KAGO,satellite manufacturer
+KAI,satellite manufacturer
+KAIFW,satellite manufacturer
+KAIK,organization
+KAIK,satellite manufacturer
+KAISR,satellite manufacturer
+KAIST,organization
+KAIST,satellite manufacturer
+KAIT,school
+KARI,engine/motor manufacturer
+KARI,launch agency
+KARI,launch vehicle manufacturer
+KARI,organization
+KARI,satellite manufacturer
+KARI,school
+KASH,organization
+KAWA,satellite manufacturer
+KAZK,organization
+KAZNU,satellite manufacturer
+KAZOKB,engine/motor manufacturer
+KAZSOY,engine/motor manufacturer
+KB1,organization
+KB1,satellite manufacturer
+KBEM,engine/motor manufacturer
+KBEME,engine/motor manufacturer
+KBKHA,engine/motor manufacturer
+KBM,engine/motor manufacturer
+KBM,launch vehicle manufacturer
+KBPT,engine/motor manufacturer
+KBPT,launch vehicle manufacturer
+KBSAL,satellite manufacturer
+KCHT,organization
+KE,country
+KEPLER,organization
+KEPWU,satellite manufacturer
+KGI,school
+KGO,school
+KH,country
+KHMM,engine/motor manufacturer
+KHRO,launch agency
+KHRO,launch vehicle manufacturer
+KHRO,satellite manufacturer
+KHRR,launch agency
+KHRR,launch vehicle manufacturer
+KHRR,organization
+KHRR,satellite manufacturer
+KHRS,launch agency
+KHRS,launch vehicle manufacturer
+KHRS,satellite manufacturer
+KHRU,launch agency
+KHRU,launch vehicle manufacturer
+KHRU,organization
+KHRU,satellite manufacturer
+KHRU,school
+KHUS,organization
+KHUS,satellite manufacturer
+KI,country
+KIEL,school
+KLIMOV,engine/motor manufacturer
+KMARQ,engine/motor manufacturer
+KMIT,satellite manufacturer
+KMUTNB,satellite manufacturer
+KOBE,school
+KOBN,school
+KOKT,engine/motor manufacturer
+KOLN,school
+KOMET,satellite manufacturer
+KORS,country
+KORSA,country
+KOSMT,satellite manufacturer
+KOUKO,organization
+KOUKO,satellite manufacturer
+KP,country
+KPA,engine/motor manufacturer
+KPA,launch agency
+KPA,launch vehicle manufacturer
+KPAMJ,engine/motor manufacturer
+KPAMJ,launch agency
+KPAMJ,launch vehicle manufacturer
+KPI,organization
+KPI,satellite manufacturer
+KPNO,launch agency
+KPNO,school
+KR,country
+KRAS,engine/motor manufacturer
+KRAT,launch vehicle manufacturer
+KRLP,launch agency
+KRLP,launch vehicle manufacturer
+KS,organization
+KSC,launch agency
+KSC,launch site
+KSC,school
+KTEL,organization
+KTH,school
+KTHR,satellite manufacturer
+KTRAS,launch agency
+KTRAS,organization
+KTU,organization
+KTU,satellite manufacturer
+KUBOS,organization
+KUZ,engine/motor manufacturer
+KVR,launch agency
+KVR,organization
+KYO,school
+KYSP,launch agency
+KYSP,organization
+KYSP,satellite manufacturer
+KYSP,school
+KYUD,organization
+KYUD,satellite manufacturer
+KYUT,organization
+KYUT,satellite manufacturer
+KZ,country
+L,country
+LA,country
+LAMBDA,organization
+LAMBDA,satellite manufacturer
+LAND,organization
+LANL,organization
+LANL,satellite manufacturer
+LANL,school
+LAPAN,engine/motor manufacturer
+LAPAN,launch agency
+LAPAN,launch vehicle manufacturer
+LAPAN,organization
+LAPAN,satellite manufacturer
+LAPAN,school
+LARC,engine/motor manufacturer
+LARC,launch agency
+LARC,launch vehicle manufacturer
+LARC,school
+LARCN,launch agency
+LARCN,organization
+LARCN,satellite manufacturer
+LARCN,school
+LARCNE,school
+LAS,school
+LASL,launch agency
+LASL,satellite manufacturer
+LASL,school
+LATMOS,satellite manufacturer
+LB,country
+LCT,satellite manufacturer
+LEEDS,school
+LEID,school
+LEOSTL,satellite manufacturer
+LERC,launch agency
+LERC,organization
+LERC,satellite manufacturer
+LERC,school
+LGAR,satellite manufacturer
+LIEGE,school
+LINAO,meteorological
+LINAO,school
+LINK,satellite manufacturer
+LK,country
+LKA,organization
+LKA,satellite manufacturer
+LLL,launch agency
+LLL,launch vehicle manufacturer
+LLNL,launch vehicle manufacturer
+LLNL,organization
+LLNL,satellite manufacturer
+LLNL,school
+LM,launch agency
+LM,satellite manufacturer
+LMA,launch agency
+LMA,launch vehicle manufacturer
+LMA,satellite manufacturer
+LMCAM,launch vehicle manufacturer
+LMCLS,launch agency
+LMCO,launch vehicle manufacturer
+LMCSS,organization
+LMCSS,satellite manufacturer
+LMEW,satellite manufacturer
+LMI,organization
+LMKSC,satellite manufacturer
+LMMI,engine/motor manufacturer
+LMMI,satellite manufacturer
+LMMS,launch vehicle manufacturer
+LMMS,satellite manufacturer
+LMN,satellite manufacturer
+LMPCO,launch vehicle manufacturer
+LMSAL,satellite manufacturer
+LMSC,launch agency
+LMSC,launch vehicle manufacturer
+LMSC,satellite manufacturer
+LMSC,school
+LMSCV,organization
+LMSD,satellite manufacturer
+LMSS,satellite manufacturer
+LMSSD,launch vehicle manufacturer
+LMSSD,satellite manufacturer
+LMT,satellite manufacturer
+LMTEW,satellite manufacturer
+LMVF,satellite manufacturer
+LOR,organization
+LOR,satellite manufacturer
+LORI,organization
+LPA,school
+LPARL,satellite manufacturer
+LPARL,school
+LPC,engine/motor manufacturer
+LPSC,engine/motor manufacturer
+LPSC,satellite manufacturer
+LPSCM,engine/motor manufacturer
+LPSP,school
+LRBA,engine/motor manufacturer
+LRBA,launch agency
+LRBA,launch vehicle manufacturer
+LRBA,school
+LRL,launch agency
+LRL,satellite manufacturer
+LRL,school
+LRPG,launch site
+LRRC,launch vehicle manufacturer
+LRRC,school
+LRS,engine/motor manufacturer
+LRS,launch agency
+LRS,launch vehicle manufacturer
+LRS,school
+LSKY,organization
+LSKYB,organization
+LT,country
+LTU,satellite manufacturer
+LTV,launch vehicle manufacturer
+LTV,satellite manufacturer
+LTVCAM,launch vehicle manufacturer
+LTVE,satellite manufacturer
+LTVM,launch vehicle manufacturer
+LUNA,astronomical polity
+LUND,school
+LUX,school
+LUXG,organization
+LUXS,organization
+LUXS,satellite manufacturer
+LV,country
+LVN,launch vehicle manufacturer
+LY,country
+LYK,launch vehicle manufacturer
+M42,satellite manufacturer
+MA,country
+MAI,organization
+MAIMD,satellite manufacturer
+MAIO,organization
+MAIO,satellite manufacturer
+MAK,engine/motor manufacturer
+MAK,launch agency
+MAK,launch vehicle manufacturer
+MAK,organization
+MAK,satellite manufacturer
+MARCO,satellite manufacturer
+MARQ,engine/motor manufacturer
+MARQO,engine/motor manufacturer
+MARTB,engine/motor manufacturer
+MARTB,launch vehicle manufacturer
+MARTB,satellite manufacturer
+MARTD,launch vehicle manufacturer
+MARTO,launch vehicle manufacturer
+MASTEN,engine/motor manufacturer
+MASTEN,launch vehicle manufacturer
+MATRA,launch agency
+MATRA,launch vehicle manufacturer
+MATRA,school
+MATT,satellite manufacturer
+MATV,satellite manufacturer
+MAXAR,satellite manufacturer
+MAXARB,satellite manufacturer
+MAXARM,satellite manufacturer
+MBAK,satellite manufacturer
+MBB,engine/motor manufacturer
+MBB,launch agency
+MBB,organization
+MBB,satellite manufacturer
+MBB,school
+MBBE,satellite manufacturer
+MBBM,satellite manufacturer
+MBCO,organization
+MC,country
+MCDA,launch vehicle manufacturer
+MCDA,satellite manufacturer
+MCI,organization
+MDA,launch agency
+MDA,organization
+MDA,school
+MDABC,satellite manufacturer
+MDAC,engine/motor manufacturer
+MDAC,launch vehicle manufacturer
+MDAC,satellite manufacturer
+MDAC,school
+MDAM,satellite manufacturer
+MDASL,satellite manufacturer
+MDD,launch agency
+MDD,meteorological
+MDHSV,satellite manufacturer
+MDR,satellite manufacturer
+MDSSC,launch agency
+MEAS,organization
+MEGS,organization
+MEGS,satellite manufacturer
+MEI,satellite manufacturer
+MEISEI,organization
+MEISEI,satellite manufacturer
+MEIT,satellite manufacturer
+MELB,organization
+MELB,satellite manufacturer
+MELCO,satellite manufacturer
+MEWTA,school
+MGON,organization
+MGU,organization
+MGU,satellite manufacturer
+MH,country
+MHI,engine/motor manufacturer
+MHI,launch agency
+MHI,satellite manufacturer
+MHIME,engine/motor manufacturer
+MHITO,launch vehicle manufacturer
+MHITO,satellite manufacturer
+MICOM,launch agency
+MICRC,satellite manufacturer
+MICRC2,satellite manufacturer
+MICRCA,satellite manufacturer
+MICROC,satellite manufacturer
+MICSG,organization
+MICSG,satellite manufacturer
+MICSP,satellite manufacturer
+MICSY,satellite manufacturer
+MILAN,satellite manufacturer
+MILAN,school
+MILLEI,satellite manufacturer
+MILLEN,satellite manufacturer
+MILTEC,satellite manufacturer
+MINCYT,organization
+MINES,satellite manufacturer
+MIRC,school
+MISU,school
+MIT,launch vehicle manufacturer
+MIT,satellite manufacturer
+MIT,school
+MITLL,launch agency
+MITLL,organization
+MITLL,satellite manufacturer
+MITLL,school
+MITT,engine/motor manufacturer
+MITT,launch vehicle manufacturer
+MM,launch vehicle manufacturer
+MM,satellite manufacturer
+MMA,launch agency
+MMAS,satellite manufacturer
+MMCLS,launch agency
+MMD,launch vehicle manufacturer
+MMD,satellite manufacturer
+MMEW,satellite manufacturer
+MMMI,satellite manufacturer
+MMPCO,launch vehicle manufacturer
+MMSS,satellite manufacturer
+MMST,satellite manufacturer
+MMSV,satellite manufacturer
+MMVF,satellite manufacturer
+MN,country
+MNF,launch agency
+MNF,meteorological
+MNF,school
+MO,organization
+MO,school
+MOD,launch agency
+MOD,organization
+MOLN,organization
+MOLN,satellite manufacturer
+MOM,organization
+MONTP2,organization
+MONTP2,satellite manufacturer
+MOOGNF,engine/motor manufacturer
+MOOGW,engine/motor manufacturer
+MORF,organization
+MOTO,satellite manufacturer
+MOTOS,engine/motor manufacturer
+MOZHA,organization
+MOZHA,satellite manufacturer
+MPAE,school
+MPE,launch agency
+MPE,organization
+MPE,satellite manufacturer
+MPE,school
+MPIH,school
+MPIK,launch agency
+MPIK,school
+MPSC,organization
+MPU,satellite manufacturer
+MR,country
+MRI,school
+MRN,launch agency
+MRN,school
+MSBTR,organization
+MSC,organization
+MSC,school
+MSCI,satellite manufacturer
+MSFC,engine/motor manufacturer
+MSFC,launch agency
+MSFC,launch vehicle manufacturer
+MSFC,organization
+MSFC,satellite manufacturer
+MSFC,school
+MSGC,organization
+MSSL,school
+MSU,organization
+MSU,satellite manufacturer
+MSU,school
+MSUKY,organization
+MSUKY,satellite manufacturer
+MSV,organization
+MSVYAZ,organization
+MU,country
+MUNIZ,satellite manufacturer
+MV,country
+MV7,launch agency
+MVS,launch agency
+MVSM,launch agency
+MX,country
+MY,country
+N,country
+NAA,engine/motor manufacturer
+NAA,launch vehicle manufacturer
+NAA,satellite manufacturer
+NAAD,launch vehicle manufacturer
+NAAD,satellite manufacturer
+NAADR,engine/motor manufacturer
+NACA,launch agency
+NADA,launch agency
+NAFI,satellite manufacturer
+NAG,organization
+NAG,satellite manufacturer
+NAG,school
+NAHU,organization
+NAIC,launch agency
+NAIC,school
+NAIR,organization
+NAKA,satellite manufacturer
+NAL,engine/motor manufacturer
+NAL,launch agency
+NAL,launch vehicle manufacturer
+NAL,organization
+NAL,satellite manufacturer
+NAMFI,launch agency
+NAMMO,engine/motor manufacturer
+NAMMO,launch agency
+NAMMO,launch vehicle manufacturer
+NAMMO,school
+NAMTC,launch agency
+NANSFI,organization
+NANSFI,satellite manufacturer
+NAOJ,school
+NARSS,organization
+NASA,launch agency
+NASA,launch vehicle manufacturer
+NASA,organization
+NASA,satellite manufacturer
+NASA,school
+NASAHQ,launch agency
+NASAHQ,launch vehicle manufacturer
+NASAHQ,satellite manufacturer
+NASDA,engine/motor manufacturer
+NASDA,launch agency
+NASDA,launch vehicle manufacturer
+NASDA,organization
+NASDA,satellite manufacturer
+NASDA,school
+NASDM,satellite manufacturer
+NATO,organization
+NAVAIR,organization
+NAWC,launch agency
+NAWC,launch vehicle manufacturer
+NAWC,school
+NAXS,school
+NBN,organization
+NBS,school
+NCAR,school
+NCKU,organization
+NCKU,satellite manufacturer
+NCU,school
+NDAWN,organization
+NDRE,launch agency
+NDRE,organization
+NDRE,school
+NEC,satellite manufacturer
+NECST,satellite manufacturer
+NECT,satellite manufacturer
+NECTF,satellite manufacturer
+NECTKA,satellite manufacturer
+NECTKE,satellite manufacturer
+NESCOMN,launch agency
+NESCOMN,launch vehicle manufacturer
+NESCOMP,launch agency
+NEU,school
+NEWSAT,organization
+NG,country
+NGAA,satellite manufacturer
+NGAS,organization
+NGAS,satellite manufacturer
+NGCOM,organization
+NGISABL,engine/motor manufacturer
+NGISD,launch agency
+NGISG,satellite manufacturer
+NGISGO,satellite manufacturer
+NGISH,engine/motor manufacturer
+NGISW,launch vehicle manufacturer
+NGNW,satellite manufacturer
+NGST,satellite manufacturer
+NHK,organization
+NICP,school
+NICS,organization
+NIHON,organization
+NIHON,satellite manufacturer
+NII125,engine/motor manufacturer
+NII88,launch agency
+NII88,launch vehicle manufacturer
+NII88,organization
+NII88A,launch agency
+NII88A,launch vehicle manufacturer
+NIIM,engine/motor manufacturer
+NIIPP,organization
+NIIPP,satellite manufacturer
+NIKUS,satellite manufacturer
+NILE,organization
+NIPR,launch agency
+NIPR,school
+NIRFI,school
+NISS,engine/motor manufacturer
+NISS,satellite manufacturer
+NISST,engine/motor manufacturer
+NISST,launch vehicle manufacturer
+NIUTN,satellite manufacturer
+NIVR,organization
+NJUST,organization
+NJUST,satellite manufacturer
+NKAU,organization
+NKE,engine/motor manufacturer
+NKO,launch agency
+NL,country
+NLR,satellite manufacturer
+NMC,engine/motor manufacturer
+NMC,launch agency
+NMC,launch vehicle manufacturer
+NMC,school
+NMCOL,satellite manufacturer
+NMIT,organization
+NMIT,satellite manufacturer
+NMSA,school
+NMSU,launch agency
+NMSU,launch vehicle manufacturer
+NMSU,school
+NOAA,launch agency
+NOAA,organization
+NOAA,school
+NOBY,school
+NOL,launch agency
+NOL,school
+NONAN,launch agency
+NORD,launch vehicle manufacturer
+NORD,satellite manufacturer
+NORDS,satellite manufacturer
+NORLM,launch vehicle manufacturer
+NORTH,launch vehicle manufacturer
+NORTH,satellite manufacturer
+NORTHC,engine/motor manufacturer
+NORTHS,satellite manufacturer
+NOTS,engine/motor manufacturer
+NOTS,launch agency
+NOTS,launch vehicle manufacturer
+NOTS,organization
+NOTS,satellite manufacturer
+NOTS,school
+NOVTR,launch vehicle manufacturer
+NPL,school
+NPOE,launch vehicle manufacturer
+NPOE,organization
+NPOE,satellite manufacturer
+NPOL,engine/motor manufacturer
+NPOL,launch agency
+NPOL,launch vehicle manufacturer
+NPOL,organization
+NPOL,satellite manufacturer
+NPOL,school
+NPOLO,launch agency
+NPOMA,launch vehicle manufacturer
+NPOMA,organization
+NPOMA,satellite manufacturer
+NPOPM,organization
+NPOPM,satellite manufacturer
+NPOPMR,organization
+NPOPMR,satellite manufacturer
+NPOT,engine/motor manufacturer
+NRCC,launch agency
+NRCC,organization
+NRCC,satellite manufacturer
+NRCC,school
+NRL,engine/motor manufacturer
+NRL,launch agency
+NRL,launch vehicle manufacturer
+NRL,organization
+NRL,satellite manufacturer
+NRL,school
+NRO,organization
+NROC,organization
+NSA,launch agency
+NSA,organization
+NSA,school
+NSAB,organization
+NSC,organization
+NSC,satellite manufacturer
+NSDC,launch agency
+NSF,launch agency
+NSF,organization
+NSL,organization
+NSL,satellite manufacturer
+NSMC,organization
+NSPO,engine/motor manufacturer
+NSPO,launch agency
+NSPO,launch vehicle manufacturer
+NSPO,organization
+NSPO,school
+NSPT,organization
+NSRDA,organization
+NSRDA,satellite manufacturer
+NSROC,school
+NSS,organization
+NSWCPH,school
+NSWCWS,school
+NTNF,launch agency
+NTNU,organization
+NTNU,satellite manufacturer
+NTT,organization
+NTTDM,organization
+NTU,organization
+NTU,satellite manufacturer
+NUAA,organization
+NUAA,satellite manufacturer
+NUDTC,engine/motor manufacturer
+NUDTC,launch vehicle manufacturer
+NUDTC,organization
+NUDTC,satellite manufacturer
+NUM,satellite manufacturer
+NUS,organization
+NVART,organization
+NWC,launch vehicle manufacturer
+NWC,school
+NWNAZ,satellite manufacturer
+NWPU,satellite manufacturer
+NWURKS,satellite manufacturer
+NYSH,organization
+NYU,school
+NZ,country
+NZRD,country
+O3B,organization
+O3BS,organization
+OAKAE,satellite manufacturer
+OAR,organization
+OATKABL,engine/motor manufacturer
+OATKD,launch agency
+OATKG,satellite manufacturer
+OATKGO,satellite manufacturer
+OATKH,engine/motor manufacturer
+OATKW,launch vehicle manufacturer
+OAZ,satellite manufacturer
+OCOS,satellite manufacturer
+OERL,satellite manufacturer
+OHB,organization
+OHB,satellite manufacturer
+OIT,organization
+OIT,satellite manufacturer
+OKB1,engine/motor manufacturer
+OKB1,launch vehicle manufacturer
+OKB1,organization
+OKB1,satellite manufacturer
+OKB10,organization
+OKB10,satellite manufacturer
+OKB117,engine/motor manufacturer
+OKB154,engine/motor manufacturer
+OKB16,engine/motor manufacturer
+OKB1F2,satellite manufacturer
+OKB1F3,organization
+OKB1F3,satellite manufacturer
+OKB2,engine/motor manufacturer
+OKB23,launch vehicle manufacturer
+OKB276,engine/motor manufacturer
+OKB456,engine/motor manufacturer
+OKB52,organization
+OKB52,satellite manufacturer
+OKB586,launch vehicle manufacturer
+OKB586,organization
+OKB586,satellite manufacturer
+OKBZ154,engine/motor manufacturer
+OKSU,school
+OLIN,engine/motor manufacturer
+OMLGM,launch vehicle manufacturer
+ONERA,engine/motor manufacturer
+ONERA,launch agency
+ONERA,launch vehicle manufacturer
+ONERA,school
+ONR,launch agency
+ONR,school
+ONUSJ,school
+OPM,school
+OPT,organization
+OPTS,organization
+OPU,organization
+OPU,satellite manufacturer
+ORBC,organization
+ORBI,organization
+ORD,launch agency
+ORD,school
+ORDRSA,launch agency
+ORDRSA,launch vehicle manufacturer
+ORDRSA,school
+OREN,launch vehicle manufacturer
+ORI,organization
+ORIAS,school
+ORL,school
+OSAKA,school
+OSC,launch agency
+OSC,launch vehicle manufacturer
+OSC,organization
+OSCAR,organization
+OSCAR,satellite manufacturer
+OSCC,engine/motor manufacturer
+OSCC,launch agency
+OSCC,launch vehicle manufacturer
+OSCC,satellite manufacturer
+OSCD,engine/motor manufacturer
+OSCD,launch agency
+OSCD,organization
+OSCD,satellite manufacturer
+OSCG,organization
+OSCG,satellite manufacturer
+OSCGA,satellite manufacturer
+OSCM,satellite manufacturer
+OSCV,launch vehicle manufacturer
+OSCW,launch vehicle manufacturer
+OSLO,school
+OSN,organization
+OSSI,organization
+OSSI,satellite manufacturer
+OSU,school
+OTR,engine/motor manufacturer
+OTR,launch agency
+OTR,launch vehicle manufacturer
+OTR,school
+OTRG,launch agency
+OTRG,launch vehicle manufacturer
+OX,school
+P,country
+PACSCI,organization
+PAI,launch vehicle manufacturer
+PAN,organization
+PAR,country
+PARA,organization
+PARAC,organization
+PARD,engine/motor manufacturer
+PARD,launch agency
+PARD,launch vehicle manufacturer
+PARD,school
+PARIS,school
+PASI,organization
+PATRAS,satellite manufacturer
+PAVKH,engine/motor manufacturer
+PCZ,country
+PE,country
+PER,organization
+PERM,engine/motor manufacturer
+PERM2,engine/motor manufacturer
+PESU,satellite manufacturer
+PFAB,satellite manufacturer
+PFRR,launch agency
+PG,country
+PH,country
+PH4,organization
+PHFO,satellite manufacturer
+PHFP,satellite manufacturer
+PHILR,engine/motor manufacturer
+PHLO,satellite manufacturer
+PHLP,satellite manufacturer
+PIHM,engine/motor manufacturer
+PIHM,launch agency
+PIHM,school
+PITT,school
+PK,country
+PKAFSC,launch agency
+PKEL,satellite manufacturer
+PKNDC,engine/motor manufacturer
+PKNDC,launch vehicle manufacturer
+PKO,launch agency
+PKO,organization
+PKPMO,launch vehicle manufacturer
+PL,country
+PLA,launch agency
+PLA2AC,launch agency
+PLABS,organization
+PLABS,satellite manufacturer
+PLABST,organization
+PLABST,satellite manufacturer
+PLANS,launch agency
+PLARF,launch agency
+PLRES,organization
+PLRES,satellite manufacturer
+PLRL,country
+PMR,launch agency
+PMR,school
+POL,launch vehicle manufacturer
+POL,organization
+POL,satellite manufacturer
+POLK,organization
+POLK,satellite manufacturer
+POLY,satellite manufacturer
+POPACS,organization
+PORTO,satellite manufacturer
+POUDR,engine/motor manufacturer
+PR,country
+PRIMVN,engine/motor manufacturer
+PRIMX,engine/motor manufacturer
+PRIN,launch agency
+PRIN,school
+PRINCE,engine/motor manufacturer
+PRIR,organization
+PRL,school
+PRO,launch agency
+PROG,engine/motor manufacturer
+PROG,launch vehicle manufacturer
+PROG,satellite manufacturer
+PROGT,launch vehicle manufacturer
+PROGT,satellite manufacturer
+PROTO,organization
+PSC,satellite manufacturer
+PSN,organization
+PSRC,school
+PSU,launch agency
+PSU,school
+PT,country
+PU,launch agency
+PUCP,organization
+PUCP,satellite manufacturer
+PUMPK,organization
+PUMPK,satellite manufacturer
+PVO,launch agency
+PVO,organization
+PWAR,organization
+PWAR,satellite manufacturer
+PWCSD,engine/motor manufacturer
+PWFL,engine/motor manufacturer
+PWRD,engine/motor manufacturer
+PWRD,satellite manufacturer
+QA,country
+QB50,organization
+QBUS,organization
+QINQ,satellite manufacturer
+QINS,satellite manufacturer
+QTT,organization
+QUAFI,organization
+QUB,school
+QUETZ,organization
+QUK,school
+RACE,organization
+RAE,launch agency
+RAE,launch vehicle manufacturer
+RAE,organization
+RAE,satellite manufacturer
+RAE,school
+RAF,launch agency
+RAFL,engine/motor manufacturer
+RAFL,satellite manufacturer
+RAFSPO,organization
+RAKA,launch agency
+RAL,organization
+RAL,satellite manufacturer
+RAL,school
+RAYES,satellite manufacturer
+RAYM,satellite manufacturer
+RAYTH,launch vehicle manufacturer
+RAYTH,satellite manufacturer
+RBOW,organization
+RCA,satellite manufacturer
+RCAF,school
+RCAR,launch agency
+RCAV,satellite manufacturer
+RDYNE,engine/motor manufacturer
+RDYNM,engine/motor manufacturer
+RDYNN,engine/motor manufacturer
+REP,launch vehicle manufacturer
+REP,satellite manufacturer
+REPF,satellite manufacturer
+RESH,organization
+RESH,satellite manufacturer
+REYE,organization
+RGMS,launch agency
+RGMS,organization
+RGMS,school
+RICE,satellite manufacturer
+RICE,school
+RIKEN,school
+RIKK,school
+RIMSAT,organization
+RIU,school
+RKA,launch agency
+RKA,organization
+RKKE,organization
+RKKE,satellite manufacturer
+RLABN,engine/motor manufacturer
+RLABN,launch agency
+RLABN,launch vehicle manufacturer
+RLABN,school
+RLABU,engine/motor manufacturer
+RMAF,organization
+RMD,engine/motor manufacturer
+RMI,engine/motor manufacturer
+RMILD,engine/motor manufacturer
+RMIPL,engine/motor manufacturer
+RN,launch agency
+RNAF,launch agency
+RNII,school
+RO,country
+ROE,school
+ROGAU,organization
+ROGAU,satellite manufacturer
+ROHR,satellite manufacturer
+ROISS,satellite manufacturer
+RORD,engine/motor manufacturer
+RORD,launch vehicle manufacturer
+ROSAP,organization
+ROSAP,satellite manufacturer
+ROSAP,school
+ROSTO,organization
+ROWAN,satellite manufacturer
+ROYAL,organization
+RPEW,engine/motor manufacturer
+RPI,engine/motor manufacturer
+RPI,launch vehicle manufacturer
+RRC,engine/motor manufacturer
+RRF,launch agency
+RRL,launch agency
+RRL,school
+RROY,engine/motor manufacturer
+RROYC,engine/motor manufacturer
+RROYL,engine/motor manufacturer
+RSC,launch agency
+RSQ,organization
+RSRS,school
+RTG,launch agency
+RTG,school
+RU,country
+RUAF,organization
+RUAF,satellite manufacturer
+RUAG,satellite manufacturer
+RUAGZ,satellite manufacturer
+RVSN,launch agency
+RVSN,organization
+RVSNR,launch agency
+RWI,launch vehicle manufacturer
+RWI,satellite manufacturer
+RWID,satellite manufacturer
+RWISB,satellite manufacturer
+S,country
+S394I,launch agency
+S4300,launch agency
+S7,launch agency
+S801,engine/motor manufacturer
+SA,country
+SAAB,satellite manufacturer
+SAAB,school
+SAABE,satellite manufacturer
+SAABS,satellite manufacturer
+SAABSA,satellite manufacturer
+SAABSP,satellite manufacturer
+SAAF,launch agency
+SABCA,satellite manufacturer
+SAC,launch agency
+SAC,school
+SAFRAN,engine/motor manufacturer
+SAFSP,organization
+SAIC,school
+SAMSO,launch agency
+SAMSO,launch vehicle manufacturer
+SAMSO,organization
+SAMSO,school
+SAMX,organization
+SAND,launch agency
+SAND,launch vehicle manufacturer
+SAND,school
+SANDF,organization
+SANH,satellite manufacturer
+SANJ,engine/motor manufacturer
+SANJ,launch vehicle manufacturer
+SANJ9,launch vehicle manufacturer
+SANL,launch agency
+SANL,launch vehicle manufacturer
+SANL,organization
+SANL,satellite manufacturer
+SAO,satellite manufacturer
+SAO,school
+SASK,school
+SASMAC,organization
+SAST,launch agency
+SAST,launch vehicle manufacturer
+SAST,organization
+SAST,satellite manufacturer
+SATBYUL,satellite manufacturer
+SATEL,organization
+SATELOG,organization
+SATELOG,satellite manufacturer
+SATGE,organization
+SATHYA,organization
+SBA,launch vehicle manufacturer
+SBRC,school
+SBS,organization
+SCAL,engine/motor manufacturer
+SCAL,launch agency
+SCAL,launch vehicle manufacturer
+SCAL,school
+SCC,organization
+SCCJ,organization
+SCEL,launch agency
+SCEL,school
+SCHJ,satellite manufacturer
+SCSS,satellite manufacturer
+SCT,organization
+SCU,organization
+SCU,satellite manufacturer
+SDC,engine/motor manufacturer
+SDC,launch agency
+SDCO,engine/motor manufacturer
+SDCO,launch vehicle manufacturer
+SDCO,satellite manufacturer
+SDCO,school
+SDIO,launch agency
+SDIO,organization
+SDIO,school
+SDLP,satellite manufacturer
+SDP,engine/motor manufacturer
+SDSC,school
+SEAL,launch agency
+SEALC,launch agency
+SEALN,launch agency
+SEALP,launch agency
+SECM,organization
+SECM,satellite manufacturer
+SECT,launch agency
+SECT,school
+SEDSH,organization
+SEDSH,satellite manufacturer
+SEL,satellite manufacturer
+SELEN,satellite manufacturer
+SELM,satellite manufacturer
+SENER,satellite manufacturer
+SEP,engine/motor manufacturer
+SEPB,engine/motor manufacturer
+SEPBL,engine/motor manufacturer
+SEPR,engine/motor manufacturer
+SEPRV,engine/motor manufacturer
+SEPVR,engine/motor manufacturer
+SEREB,launch vehicle manufacturer
+SES,organization
+SESA,organization
+SESBM,organization
+SESE,organization
+SESG,organization
+SESNS,organization
+SESS,organization
+SESSL,organization
+SESW,organization
+SESWS,organization
+SESWSP,organization
+SG,country
+SGAU,organization
+SGAU,satellite manufacturer
+SH,country
+SHAB,organization
+SHANGT,organization
+SHANGT,satellite manufacturer
+SHANT,satellite manufacturer
+SHAOX,satellite manufacturer
+SHAR,launch site
+SHAR,launch vehicle manufacturer
+SHEF,school
+SHIN,organization
+SHINSHU,organization
+SHINSHU,satellite manufacturer
+SHIZ,satellite manufacturer
+SIBGAU,satellite manufacturer
+SII,organization
+SII,satellite manufacturer
+SIL,satellite manufacturer
+SILK,organization
+SIMED,engine/motor manufacturer
+SIMED,launch agency
+SIMED,launch vehicle manufacturer
+SIMED,school
+SIMG,organization
+SINDO,organization
+SINO,organization
+SIR,organization
+SIRX,organization
+SIS,launch agency
+SISE,satellite manufacturer
+SISP,engine/motor manufacturer
+SITAEL,satellite manufacturer
+SITP,satellite manufacturer
+SJSU,organization
+SJSU,satellite manufacturer
+SK,country
+SKB30,launch agency
+SKB30,launch vehicle manufacturer
+SKB385,launch vehicle manufacturer
+SKB385,satellite manufacturer
+SKB385Z,satellite manufacturer
+SKC,organization
+SKC,satellite manufacturer
+SKPJ,organization
+SKTEL,organization
+SKYB,organization
+SKYBOX,organization
+SKYBOX,satellite manufacturer
+SKYM,organization
+SKYTE,organization
+SLREC,engine/motor manufacturer
+SLU,organization
+SLU,satellite manufacturer
+SMCTV,organization
+SMCXR,organization
+SMDC,launch agency
+SMDC,organization
+SMDC,satellite manufacturer
+SMDC,school
+SMSA,launch agency
+SMSA,school
+SNCASE,satellite manufacturer
+SNECB,engine/motor manufacturer
+SNECBL,engine/motor manufacturer
+SNECDE,engine/motor manufacturer
+SNECMA,engine/motor manufacturer
+SNECMA,launch vehicle manufacturer
+SNECMS,engine/motor manufacturer
+SNECPS,engine/motor manufacturer
+SNECV,engine/motor manufacturer
+SNECVR,engine/motor manufacturer
+SNPE,engine/motor manufacturer
+SNU,satellite manufacturer
+SNVL,satellite manufacturer
+SNVP,satellite manufacturer
+SOCOM,organization
+SOHLA,organization
+SOHLA,satellite manufacturer
+SOKA,organization
+SOKA,satellite manufacturer
+SOLM,organization
+SOR,organization
+SORUN,organization
+SORUN,satellite manufacturer
+SOSA,organization
+SOTON,school
+SOYUZ,engine/motor manufacturer
+SPA,satellite manufacturer
+SPAC,organization
+SPAR,satellite manufacturer
+SPARD,satellite manufacturer
+SPARM,satellite manufacturer
+SPAWSD,organization
+SPDEV,engine/motor manufacturer
+SPDEV,satellite manufacturer
+SPER,satellite manufacturer
+SPFL,launch agency
+SPFL,launch site
+SPFL,launch vehicle manufacturer
+SPFL,school
+SPG,satellite manufacturer
+SPHARM,satellite manufacturer
+SPHARS,satellite manufacturer
+SPIRE,organization
+SPIREG,satellite manufacturer
+SPMIC,satellite manufacturer
+SPOG,launch agency
+SPOT,organization
+SPQ,organization
+SPQ,satellite manufacturer
+SPUT,organization
+SPUT,satellite manufacturer
+SPVR,organization
+SPX,launch agency
+SPX,launch vehicle manufacturer
+SPX,organization
+SPX,satellite manufacturer
+SPX,school
+SPXES,launch agency
+SPXES,satellite manufacturer
+SPXS,satellite manufacturer
+SPXTX,engine/motor manufacturer
+SPXTX,launch agency
+SR,country
+SRC,launch agency
+SRC,organization
+SRC,satellite manufacturer
+SRCI,launch vehicle manufacturer
+SRCI,school
+SRDL,launch agency
+SRDL,organization
+SRDL,satellite manufacturer
+SRDL,school
+SRI,school
+SRII,organization
+SRII,satellite manufacturer
+SRMU,organization
+SRMU,satellite manufacturer
+SROE,launch vehicle manufacturer
+SS500,launch agency
+SSC,launch agency
+SSC,launch vehicle manufacturer
+SSC,organization
+SSC,satellite manufacturer
+SSC,school
+SSCO,organization
+SSDC,launch agency
+SSDC,school
+SSI,launch agency
+SSI,school
+SSICE,organization
+SSICE,satellite manufacturer
+SSICE,school
+SSIM,organization
+SSL,satellite manufacturer
+SSLMAX,satellite manufacturer
+SSTARS,organization
+SSTARS,satellite manufacturer
+SSTL,organization
+SSTL,satellite manufacturer
+SSTLA,organization
+SSTLA,satellite manufacturer
+ST2V,organization
+STA,engine/motor manufacturer
+STA,launch agency
+STA,launch vehicle manufacturer
+STA,school
+STADK,organization
+STADK,satellite manufacturer
+STAN,organization
+STAN,satellite manufacturer
+STAN,school
+STBO,organization
+STBO,satellite manufacturer
+STEL,organization
+STELLT,organization
+STEN,satellite manufacturer
+STGL,organization
+STL,satellite manufacturer
+STLC,organization
+STMS,satellite manufacturer
+STO,school
+STONE,organization
+STP,organization
+STRELA,launch vehicle manufacturer
+STSM,launch agency
+STSM,organization
+STST,engine/motor manufacturer
+STST,launch agency
+STST,launch vehicle manufacturer
+STST,school
+SU,country
+SU190,satellite manufacturer
+SU523,satellite manufacturer
+SU782,satellite manufacturer
+SUD,engine/motor manufacturer
+SUD,launch vehicle manufacturer
+SUD,school
+SUEL,launch vehicle manufacturer
+SUEL,satellite manufacturer
+SUI,launch agency
+SUI,launch vehicle manufacturer
+SUI,satellite manufacturer
+SUI,school
+SUPA,launch agency
+SUPA,launch vehicle manufacturer
+SUPA,organization
+SUPA,satellite manufacturer
+SUPA,school
+SUPAER,satellite manufacturer
+SUPSI,organization
+SUPSI,satellite manufacturer
+SURREY,organization
+SURREY,satellite manufacturer
+SUSX,school
+SUT,satellite manufacturer
+SVC,launch agency
+SVC,launch vehicle manufacturer
+SWALES,satellite manufacturer
+SWARM,satellite manufacturer
+SWRI,school
+SWRIB,school
+SY,country
+SYMC,launch agency
+SYMC,launch vehicle manufacturer
+SZRTC,engine/motor manufacturer
+T,country
+TAIFUN,engine/motor manufacturer
+TAIFUN,launch vehicle manufacturer
+TAMA,organization
+TAMA,satellite manufacturer
+TAMU,organization
+TAMU,satellite manufacturer
+TAO,school
+TARTU,satellite manufacturer
+TAYLU,organization
+TAYLU,satellite manufacturer
+TBELLA,organization
+TBELLA,satellite manufacturer
+TC,country
+TCAN,organization
+TCI,organization
+TECN,organization
+TECN,satellite manufacturer
+TEIK,organization
+TEIK,satellite manufacturer
+TEIK,school
+TEKEV,organization
+TELB,organization
+TELBR,satellite manufacturer
+TELD,organization
+TELED,organization
+TELK,organization
+TELMX,organization
+TEMIS,satellite manufacturer
+TERMAB,satellite manufacturer
+TERRE,organization
+TESLA,satellite manufacturer
+TETHA,satellite manufacturer
+TF,country
+TF88,launch agency
+TF88,school
+THAIC,organization
+THALA,satellite manufacturer
+THALES,satellite manufacturer
+THALR,satellite manufacturer
+THK,engine/motor manufacturer
+THKE,engine/motor manufacturer
+THKE,launch vehicle manufacturer
+THKU,engine/motor manufacturer
+THKU,satellite manufacturer
+THKX,engine/motor manufacturer
+THKX,launch vehicle manufacturer
+THKX,satellite manufacturer
+THKXM,engine/motor manufacturer
+THUR,organization
+THURY,organization
+TIANJ,engine/motor manufacturer
+TIFR,school
+TIT,organization
+TIT,satellite manufacturer
+TITV,control center
+TJHS,organization
+TJHS,satellite manufacturer
+TLS,school
+TM,country
+TMI,organization
+TMSAT,organization
+TMTEL,organization
+TMU,school
+TNO,satellite manufacturer
+TNOR,organization
+TO,country
+TOHO,organization
+TOHO,satellite manufacturer
+TOHO,school
+TOK,organization
+TOK,satellite manufacturer
+TOK,school
+TOKAI,satellite manufacturer
+TOKAI,school
+TONG,organization
+TORP,organization
+TORP,satellite manufacturer
+TOSH,satellite manufacturer
+TOYA,school
+TPS,organization
+TPS,satellite manufacturer
+TPS,school
+TR,country
+TROM,school
+TRORB,organization
+TRW,engine/motor manufacturer
+TRW,launch vehicle manufacturer
+TRW,organization
+TRW,satellite manufacturer
+TRW,school
+TRWAA,satellite manufacturer
+TRWC,satellite manufacturer
+TRWESL,satellite manufacturer
+TRWRC,satellite manufacturer
+TSAO,launch agency
+TSAO,school
+TSBM,organization
+TSCJ,organization
+TSHUA,organization
+TSHUA,satellite manufacturer
+TSKB7,engine/motor manufacturer
+TSKB7,satellite manufacturer
+TSKBE3,organization
+TSKBE3,satellite manufacturer
+TSKBEM,organization
+TSKBEM,satellite manufacturer
+TSKBM,organization
+TSKBM,satellite manufacturer
+TSKY,organization
+TSKYBR,organization
+TSN108,organization
+TSPZ,organization
+TSPZ,satellite manufacturer
+TSROK,control center
+TSSKB,organization
+TSSKB,satellite manufacturer
+TSSKBP,organization
+TSSKBP,satellite manufacturer
+TSUK,satellite manufacturer
+TSUK,school
+TSUKOS,launch agency
+TSUKOS,organization
+TSUKU,organization
+TSUKU,satellite manufacturer
+TSVS,organization
+TTPI,country
+TTY,school
+TUAF,launch agency
+TUAFA,satellite manufacturer
+TUB,organization
+TUB,satellite manufacturer
+TUB,school
+TUBAFA,satellite manufacturer
+TUBI,school
+TUBTK,organization
+TUBTU,organization
+TUBTU,satellite manufacturer
+TUC,school
+TUD,organization
+TUD,satellite manufacturer
+TUG,organization
+TUG,satellite manufacturer
+TUI,organization
+TUI,satellite manufacturer
+TUM,organization
+TUM,satellite manufacturer
+TUMED,organization
+TURAB,organization
+TURKP,organization
+TURKS,organization
+TURKT,organization
+TUSAS,satellite manufacturer
+TW,country
+TXWC,launch agency
+TXWC,school
+TYVAK,satellite manufacturer
+UA,country
+UAE,country
+UAF,launch agency
+UAF,organization
+UAF,satellite manufacturer
+UAF,school
+UAH,organization
+UAH,satellite manufacturer
+UAH,school
+UAHCM,school
+UAP,organization
+UAP,satellite manufacturer
+UAZ,organization
+UAZ,satellite manufacturer
+UAZ,school
+UBC,school
+UCAN,launch agency
+UCAN,school
+UCB,organization
+UCB,satellite manufacturer
+UCB,school
+UCL,launch agency
+UCL,school
+UCO,organization
+UCO,satellite manufacturer
+UCO,school
+UCSD,school
+UCW,school
+UDAYT,school
+UFA,satellite manufacturer
+UFL,organization
+UFL,satellite manufacturer
+UFL,school
+UFSM,organization
+UFSM,satellite manufacturer
+UGATU,organization
+UGATU,satellite manufacturer
+UHI,organization
+UHI,satellite manufacturer
+UHI,school
+UIA,satellite manufacturer
+UIA,school
+UIO,launch agency
+UIO,school
+UIUC,organization
+UIUC,satellite manufacturer
+UIUC,school
+UK,country
+UKMO,launch agency
+UKMO,school
+UKNR,launch agency
+UKRN,launch agency
+UKS,organization
+UKS,satellite manufacturer
+UKSA,organization
+UKSPOC,organization
+UKTSB,organization
+UKY,school
+ULAB,launch agency
+ULAL,launch agency
+ULLAF,organization
+ULLAF,satellite manufacturer
+ULM,school
+UM67,country
+UM79,country
+UMAL,school
+UMBC,organization
+UMBC,satellite manufacturer
+UMD,launch agency
+UMD,launch vehicle manufacturer
+UMD,school
+UMI,launch agency
+UMI,launch vehicle manufacturer
+UMI,organization
+UMI,satellite manufacturer
+UMI,school
+UMIAMI,school
+UMN,school
+UNAM,organization
+UNAM,satellite manufacturer
+UNAM,school
+UNB,organization
+UNB,satellite manufacturer
+UNH,organization
+UNH,satellite manufacturer
+UNH,school
+UNIPE,organization
+UNIPE,satellite manufacturer
+UNIS,organization
+UNIS,satellite manufacturer
+UNK,engine/motor manufacturer
+UNK,launch agency
+UNK,launch vehicle manufacturer
+UNK,organization
+UNK,satellite manufacturer
+UNK,school
+UNKS,launch agency
+UNKS,organization
+UNKSR,launch agency
+UNKSR,organization
+UNKUS,satellite manufacturer
+UNKUS1,satellite manufacturer
+UNMC,organization
+UNMC,satellite manufacturer
+UNRV,launch agency
+UNSW,satellite manufacturer
+UNSWC,satellite manufacturer
+UOS,organization
+UOS,satellite manufacturer
+UPAE,engine/motor manufacturer
+UPAE,launch agency
+UPAE,launch vehicle manufacturer
+UPAE,school
+UPC,school
+UPD,satellite manufacturer
+UPM,organization
+UPM,satellite manufacturer
+UQU,launch agency
+UQU,school
+URDEI,organization
+URUGUS,satellite manufacturer
+US,country
+US7A,launch agency
+US8A,launch agency
+USA,launch agency
+USA,organization
+USA,school
+USAF,launch agency
+USAF,organization
+USAF,school
+USAFA,launch agency
+USAFA,launch vehicle manufacturer
+USAFA,organization
+USAFA,satellite manufacturer
+USAFA,school
+USCG,organization
+USCLA,organization
+USCLA,satellite manufacturer
+USCLA,school
+USCMR,organization
+USCMR,satellite manufacturer
+USDMA,organization
+USEF,organization
+USERAR,organization
+USERAR,satellite manufacturer
+USGS,organization
+USMA,organization
+USMA,satellite manufacturer
+USN,engine/motor manufacturer
+USN,launch agency
+USN,launch vehicle manufacturer
+USN,organization
+USN,school
+USNA,organization
+USNA,satellite manufacturer
+USNPS,organization
+USNPS,satellite manufacturer
+USNTB,school
+USTC,satellite manufacturer
+USU,organization
+USU,satellite manufacturer
+USU,school
+USYD,satellite manufacturer
+UT,organization
+UT,satellite manufacturer
+UTC,engine/motor manufacturer
+UTC,satellite manufacturer
+UTCISR,satellite manufacturer
+UTCWL,satellite manufacturer
+UTD,school
+UTE,satellite manufacturer
+UTEP,school
+UTIAS,organization
+UTIAS,satellite manufacturer
+UTIAS0,organization
+UTIAS0,satellite manufacturer
+UTOR,school
+UTR,school
+UUT,school
+UVA,school
+UVIE,organization
+UVT,school
+UWA,school
+UWI,satellite manufacturer
+UWI,school
+UWO,school
+UY,country
+UZKA,launch agency
+VANDU,organization
+VAP,school
+VAST,organization
+VATP,satellite manufacturer
+VE,country
+VENT,engine/motor manufacturer
+VENT,launch vehicle manufacturer
+VER,satellite manufacturer
+VERSI,satellite manufacturer
+VFW,satellite manufacturer
+VFW2,satellite manufacturer
+VFWF,satellite manufacturer
+VIA,organization
+VIGO,organization
+VIGO,satellite manufacturer
+VILN,organization
+VILN,satellite manufacturer
+VISTE,organization
+VITA,organization
+VKI,organization
+VKS,launch agency
+VKS,organization
+VKSR,launch agency
+VKSR,organization
+VMF,launch agency
+VMF,organization
+VMFR,launch agency
+VMFR,organization
+VN,country
+VNIEM,organization
+VNIEM,satellite manufacturer
+VNIEMR,organization
+VNIEMR,satellite manufacturer
+VNIIEMI,satellite manufacturer
+VNPT,organization
+VNSC,organization
+VNSC,satellite manufacturer
+VOENT,organization
+VORO,engine/motor manufacturer
+VOTK,engine/motor manufacturer
+VOTK,launch vehicle manufacturer
+VOUA,engine/motor manufacturer
+VOUA,launch vehicle manufacturer
+VSSC,engine/motor manufacturer
+VSSC,launch vehicle manufacturer
+VSSC,satellite manufacturer
+VSSC,school
+VTC,organization
+VTC,satellite manufacturer
+VTS,organization
+VTSR,organization
+VULT,launch vehicle manufacturer
+VVKO,launch agency
+VVKOV,launch agency
+VVS,launch agency
+VVSR,launch agency
+VZLU,satellite manufacturer
+WADC,school
+WADD,launch agency
+WADD,school
+WAKA,organization
+WAKA,satellite manufacturer
+WAML,school
+WASEDA,organization
+WASEDA,satellite manufacturer
+WBLU,organization
+WEB,organization
+WEB,satellite manufacturer
+WEBC,organization
+WEBC,satellite manufacturer
+WEHR,launch agency
+WEHR,launch vehicle manufacturer
+WEINA,organization
+WELEC,launch vehicle manufacturer
+WER271-1,launch agency
+WER444,launch agency
+WER485,launch agency
+WER485-1,launch agency
+WER485-2,launch agency
+WER485-3,launch agency
+WER500,launch agency
+WER836,launch agency
+WER836-1,launch agency
+WER836-2,launch agency
+WER836-3,launch agency
+WER902,launch agency
+WFC,launch agency
+WFC,launch vehicle manufacturer
+WFC,organization
+WFF,launch agency
+WFF,launch vehicle manufacturer
+WFF,school
+WI,launch site
+WI,organization
+WNI,organization
+WORSP,organization
+WORSP1,organization
+WRE,engine/motor manufacturer
+WRE,launch agency
+WRE,launch vehicle manufacturer
+WRE,organization
+WRE,satellite manufacturer
+WRE,school
+WSMC,launch agency
+WSMC,organization
+WSMR,launch agency
+WSMR,school
+WSPG,launch agency
+WTA,satellite manufacturer
+WTR,launch agency
+WTR,launch site
+WUHAN,satellite manufacturer
+WUPP,school
+WURZ,organization
+WURZ,satellite manufacturer
+WUTC,organization
+WXB,launch agency
+X,country
+XCOR,engine/motor manufacturer
+XCYS,satellite manufacturer
+XIDI,organization
+XIDI,satellite manufacturer
+XJRY,launch vehicle manufacturer
+XMR,organization
+XTAR,organization
+YE,country
+YERK,school
+YKVZ,engine/motor manufacturer
+YONS,satellite manufacturer
+YORK,school
+YORKSS,satellite manufacturer
+YSP,launch agency
+YUZGU,satellite manufacturer
+YUZH,engine/motor manufacturer
+YUZH,launch vehicle manufacturer
+YUZH,organization
+YUZH,satellite manufacturer
+YUZHM,engine/motor manufacturer
+ZA,country
+ZAV23,launch vehicle manufacturer
+ZAV23,satellite manufacturer
+ZAV47,launch vehicle manufacturer
+ZDFH,satellite manufacturer
+ZHEJ,organization
+ZHEJ,satellite manufacturer
+ZHELZ,organization
+ZHUORB,organization
+ZIKH,launch vehicle manufacturer
+ZIKH,organization
+ZIKH,satellite manufacturer
+ZIMN,launch vehicle manufacturer
+ZLZB,launch agency
+ZR,country
+ZTZM,organization
+ZVEZ,satellite manufacturer
+ZZB,launch agency
+ZZB,organization
+ZZWYZ,organization
