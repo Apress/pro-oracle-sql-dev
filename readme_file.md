@@ -33,7 +33,7 @@ How to Install
 
 **Oracle Instructions:**
 
-1. Download and unzip oracle_create_space.sql.zip.
+1. Download oracle_create_space.sql.
 2. CD into the directory with that file.
 3. Set the command line to work with a UTF8 file.  In Windows this should work:
 
