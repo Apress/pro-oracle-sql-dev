@@ -5,7 +5,7 @@ This repository accompanies [*Pro Oracle SQL Development*](https://www.apress.co
 [comment]: #cover
 ![Cover image](9781484245163.jpg)
 
-Download the files as a zip using the green button, or clone the repository to your machine using Git.
+Download the files as a zip using the green button, or clone the repository to your machine using Git.  See the file readme_file.md for instructions for installing the data set and examples.
 
 ## Releases
 
